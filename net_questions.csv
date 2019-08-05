@@ -1,471 +1,471 @@
-0
- I confidently answered all the questions Mainly the questions were asked related with MVC 4
-What is design patternWhat is the difference between the user control and custom control
-AngularJSWhat Directives have you used
-what is ngmodelnot sure for this one Something about scopeSQLwhat do you do when you find that connection is not responding for 1 minCSingleton patternMVCTempData ViewData ViewBagWhy you use ViewBag instead of ViewData what is the differenceEntity Frameworkcode first VS database first approachhow to design sp using code first method
-AngularJSWhat Directives have you used
-what is ngmodelnot sure for this one Something about scopeSQLwhat do you do when you find that connection is not responding for 1 minCSingleton patternMVCTempData ViewData ViewBagWhy you use ViewBag instead of ViewData what is the differenceEntity Frameworkcode first VS database first approachhow to design sp using code first method
-What is a hashtableWhat is the difference between truncate and deleteWhat is a delegateWhat is a left outer joinCan you rollback a truncate commandWhat is public static void
-What is refactor how it is usedhow to capture requirementsHow to handle performance issuesHow to deal with a bugWhat is tracingSome basic sql design questionWhat is load balancing and how does it applies to EFSome basic programming question sorting that stuffhow to read a key from webconfigeager locking vs pessimistic lockingexplain concurrencyHow to manage a sessionExplain MVCExplain scope rootscope and isolated scopeHow to cope with change in your designMail automation requirementshow does routing works in MVC How do you solve multiple routes with same signature issuesexplain manual binding in angularExplain dependency injection in AngularWhat is a service in AngularHow would you inject a function in angularProbably more if I remember I will add them
-What is refactor how it is usedhow to capture requirementsHow to handle performance issuesHow to deal with a bugWhat is tracingSome basic sql design questionWhat is load balancing and how does it applies to EFSome basic programming question sorting that stuffhow to read a key from webconfigeager locking vs pessimistic lockingexplain concurrencyHow to manage a sessionExplain MVCExplain scope rootscope and isolated scopeHow to cope with change in your designMail automation requirementshow does routing works in MVC How do you solve multiple routes with same signature issuesexplain manual binding in angularExplain dependency injection in AngularWhat is a service in AngularHow would you inject a function in angularProbably more if I remember I will add them
-Q what is the differencebetween repeater and grid viewA GridView displays your data source in an HTML table and extends it to allow paging sorting editing etc
- A repeater is a template control where you specify the html that is used to render each row
- A gridview can only show your data in a table but a repeater can show your data in any way you want by creating the relevant ItemTemplate
- for more detailshttpwww
-html
-Some SamplesSQL aggregate functions return a single value calculated from values in a column
-AvgCountFirstLastSQL scalar functions return a single value based on the input value
-What is an inline and block elementHow do you store data in the clientHow do you execute a SQL command in Web SQLHow do you get the current location of the clientHow do you make a page responsive in CSS without using a framework
-How would you reverse the order of an arrays elementWhats the port number of SQL Server1433
-Whats the difference between a local temp table and a global temp tableA local temp table is accessible for one user connected to the database
- A global temp table is accessible by all connected users
-How do you declare a local temp table and a global temp tableCREATE TABLE localtemptablename
- Uses one CREATE TABLE globaltemptablename
- Uses two How are transactions usedBegin the transaction Commit the transaction if you want to save the changes Rollback the transaction if you want to undo the changes
-Whats the difference between Truncate and DeleteTRUNCATEremoves all rows from a table but the table structure its columnsconstraints indexes and so on remains
-You cannot use TRUNCATE TABLE on a tablereferenced by a FOREIGN KEY constraint
-DELETE removes rows one at a time and records anentry in the transaction log for each deleted row
-Whats the difference between REST and SOAPREST can use different data formats but SOAP can only use XML
- REST has to use HTTP but SOAP can use different protocols
- REST is faster
-REST uses the HTTP buildin headers with a variety of mediatypes to carry meta information and use the GET POST PUT and DELETE verbs to perform CRUD operations
- REST uses URI and methods like GET PUT POST DELETE to expose resources
-How would you save the last time a file in a virtual directory of images was accessed in a tableSomething to do with HTTP HandlerModules
-MVCWhats a predicateWhy is it called MVStar or MV i dont know instead of MVCWhats the difference between json and partial view I know thats a weird question but it happenedWhat can ajax calls returnCWhats an action Not MVC actionAngularJSHow did you handle exceptionsHow did you interact with the databaseExplain the apply lifecycleHow did you use digestWhats the difference between custom and value types
-Vendor questionsc1difference between string and string builder2difference between clone and copy3 private  protected and protected internal4 can a private class be inheritedsql interview questions1local table and global temp table2 TransactionsThen he said i think you know stuffs so he stopped and sent me face to face interview request to Windsor
- The ones I rememberDifference between String and StringBuilderString is immutable which means that every time you assign a new value to a String object the system has to create an entirely new string
- StringBuilder is a class designed to circumvent this problem
-Difference between chr and asc I assumed it is a SQL questionCHR or CHAR is a character data type single character while ASC is Ascending used in ordering SQL queries
- I may have misunderstood the question it came after several SQL related questions
-How do you link a stylesheet into a webpageltlink hrefwhatever relstylesheetgtDifference between to and to xIm not sure if I understood the interviewer properly
-What is SSIS and what is it used forSSIS stands for SQL Server Integration Services
- It is used for hosting and configuring Web Applications on a home server
-Does Angular use AJAX under the hoodFor the http service Angular uses AJAX
-What is AJAXAjax is a clientside script that communicates to and from a serverdatabase without needing a postback or page refresh
-What are the downsides to using stored proceduresModification of a stored procedure from its norm requires writing a new procedure or writing a unique query
- SQL Server will optimize stored procedures when they are used frequently as well leading to an increase in performance
-NET MVC Fullstack or partstackASP
-NET MVC is fullstack which is the idea of having everything you need for a web application in one framework
- A partstack framework requires an accompanying framework to handle the other sections of the application
- For example AngularJS being only frontend is partstack
-What are the default number of columns in a Bootstrap application12
-Why do you care about the columns in a Bootstrap applicationBootstrap columns are used to format an applications display based on the size of the screen
-When connecting to a database via LINQ is the data queried immediatelyNo
-What are AngularJS FiltersAngularJS Filters are customization options that can be set on datasets
- The filter can simply be a link to a variable field or a function that performs some truefalse result operation
-What is scopescope is a connection between the view and controller in Angular
- It is used with Angular expressions to show data in the view
-What are await and asyncUsed in multithreading a function defined as async is allowed to run outside and independently of the main application thread
- When await is used within one of these functions it has the async function wait for a period of time
-IQueryable vs IEnumerable Whats the differences Which executes queries immediatelyIQueryable is an extension of IEnumerable that is built specifically to deal with SQL queries
- IEnumerable executes queries immediately as it does not make use of SQL features
-How do you handle events in AngularJSYou use the 
-on function
-onclick functionHow do you handle an outside domain connectionNot sure did not answer this question
- For example in a function within an object the this keyword refers to the object that owns the function
-How do you check that your Session is valid when conversing between multiple databasesNo idea
-NETA directive is an HTML helper that is used to provide some sort of function within a page
-Difference between a table and a viewA table is a set of data within your database
- A view is a set of data combined from multiple tables or just a single table
- It does not have to contain all of the data within the tables selected
-Difference between a stored procedure and a functionA function must return a value while a stored procedure does not have to one of the many differences
- When the connection is closed or dropped the temporary variable is destroyed
-Do you use a temp table or a temp variable Which is betterIt depends on the scenario
- For example in a function you must use a temp table variable
-JavaScriptvar k  1if 1   evalfunction foo  k  typeof fooWhat would be the value of k
-multiplication23  6multiplication234  24How would you write the above functions as a single functionvar x  1var output  function  delete x  return x Output of x
-How is AngularJS different from other JavaScript functionsHow do you create a service in AngularJSWhat is routing in AngularJSHow would you communicate between controllers in AngularJSHow do you manage cookies in AngularJSWhat is a broadcast in AngularJSWhats the difference between scope and scopeOtherWhat is MVCHow did you implement browser compatibilityWhats the difference between HTML5 and HTMLWhats the difference between CSS3 and CSSJavaScriptvar k  1if 1   evalfunction foo  k  typeof fooWhat would be the value of k
-multiplication23  6multiplication234  24How would you write the above functions as a single functionvar x  1var output  function  delete x  return x Output of x
-What kind of testing have doneHow did you implement automated testingWhat kind of tools did use for testingHow did you do unit testing What tools did you useWhat kind of tools did use for improving performanceIf theres an application for data entry and the data enterers thats not a word but whatever can only enter 3 pages of data every ten minutes compared to the 10 pages they can enter every ten minutes in another application how would you improve the performance of the applicationWhats the difference between Web API and WCFHow do you version servicesWhat is a dependency injection What are the benefits of dependency injections How do they make testing easierWhat are the benefits of AngularJSHow did you do mocking
-Where to use Interfaces and Abstract classesUse of using statement in cWhat is Cache and types of cachestate management techniqueWhat are partial classesHow to you analyze the performance of an application which toolswhat is reflectionWhere did you use AJAX call Can we have two AJAX calls on same pageWhy WCF why not web servicesDifference between REST and SOAPHow to increase the performance of the WCF serviceDifference between local temp and global temp tableWhat is sql profilerCan we have two webconfigs in one fileWhat is fault contractHow do you improve a query performaceThere were some questions about my profile and the projects i had done
-what is fiddlerwhat is Lazy loadingNunitWhat is Wcfhow to write wcfuse of wcfmsmqEntity frameworkdisadvantage of entity framework
-asax functions4
- Create function that takes input I Like Cats and return output Cats Like I
-What is AngularJS Routing6
-What is WCF
-How do we create a manual proxy in WCF9
-What methods are used for AJAX to send request for connecting server side12
-Action Filters in MVC
-AngularJs and Web API Questionsfor what purpose you have created Web API how to store dataJSON Data that Web API is returning to the database
-Have you used Web API or microsoft APIWere you involved in developing Web API SQL Server database in your projectHave you used custom Directives in Angular HowFor EF have you used Database first approach or Code First approachWhat kind of directives we have in BootstrapFrontendHave you used internal CSS or framework for implementing CSS
-Interview questions on SQL and Object Oriented
-What is constraintWhat is Referential Integrityjoins in SQLOnetoMany relationship in SQLTransactionWhere we are writing Rollback statement in transactionI have multiple queries in Transaction so is it good idea to write everything in one transaction or maintain one transaction for each
-What is interface and Abstract classWhat are the things that we can write in interface and abstract classLike methods properties etcWhat is acronym SOLID in object orientedDesign PatternsFactory Singleton etcCan we instantiate interface and abstract classHow many interfaces we can implement using single classIs there any limitHow many abstract class we can inherit using single classvalue type and reference type in OO
-What is application settings in mvcwhat are 3 layers in chow to you provide security in webservicehow many records you have in your sql server table
-What is application settings in mvcwhat are 3 layers in chow to you provide security in webservicehow many records you have in your sql server table
-diff btwn interface and class3
- query performance in sql4
-application balancing6
-WCF and Webservices diff8
-NET  C and SQLdiff between machine config and web config
-without transactiondiff between thread and processIs thread is a processwhat is command in ADO
-NETdiff between data adapter and data readerIf I have the bunch of data in dataset and i want to store it in tablewhole data together then what method i should useHow I will read data from dataset without using loopwhat is auto post backhow to stop controls involving in Auto post backhow to stop client side validation
-related to API and SQL
-What is RESTfulWhat are the verbs used in REST APIUnit testingHow have you implemented Unit testingSQL Server PerformanceQuery optimizationApplication performance
-NET C jQuery and SQL Server questionscoded on white boardSyntax to inherit one class and implement two interfaces
-If i have one class which is implementing two interfaces and both interfaces have exact same methods then how will i get to know that this method is from particular interfacejQuery validationIf I have two textboxes having same name in different user controlsi
- UC1 and UC2 then what will be the id of textbox after running the APPQuery optimization in SQL ServerHow to improve performance of your application
-they give two tables table 1users ordganisation_IDOrder_id
-                   table 2order_id order description and had primary key relation with order_idWrite query to display all the records
-write a query to get count of users based on organization
-Linq query syntaxhad static variable and want to use in both pages
-NET  CAny problems faced during projects and how did you solve themWhat is a masterpagewhat is an error page
-What is ConstructorWhat is DestructorWhat is namespace How it is usedWhat is GACWhat are the types of errorsWhat is Page directive What it doesWhat is State ManagementWhat is PostBack how to store data while posting backWhat is Code BehindWhat is AutoEventWireupWhat are the techniques used for transferring data from one page to another pageWhat is Cross JoinWhat is Inner JoinLeft JoinRight JoinWhat is Method OverloadingWhat is dllHow to handle multiple dllsHow to loop through the controls on webpageWhat is ViewStateWhat is HTTPWhat is web
-Why angularjs why not jqueryjavascript
- You have 2 pages and 2 diff controllers
- you need to pass data from one page to anotherhow will you do that
-how does one mock http config4
-explain how will you mock your html pages and your viewsWeb api1
-life cycle of web api
-what is the advantage of using web api framework have you used any other dotnet framework with web api
-web api security4
-web api exception handling5
-diff btwn http post and http delete6
-MVC1
-Why MVC why not another framework2
-difference between abstract class and interfacewhere have you used linq in your project what is the advantage of itdisadvantage of using entity framework
-diff between wcf rest and restful APIwhat is restful web apiwhy have you used restful web api and wheresecurity in wcf
- what are the types of itwhat is view state where it is storedwhat is page directivewhy have you used stored procedure in sql serverpage life cycle of asp
-Focusing on MVC WCF Web API and SQL server mainly
-what is inheritancepolymorphismMVC routingSOA architecturehow have you implemented wcf service in your projectdiff between web service and wcfwhy SPA in angularhow have you implemented SPAdependency injectionNunit testingsource code version controladvantage of stored procedurewhy have you written stored procedure instead of writing everything in your codeTFS Agile methodologiesdisadvantage of jQuerysecurity in wcfhave you ever given any architecture design before working on any functionalityhave you ever created any documentationwhat is SSIS and SSRSasking more about what have you done in project and howwhat is route attribute in mvcsession management in mvcwhat will you do if your client will complain you that your application is running slow
- Project role description2
- MVC Architecture3
- How do you handle dependency injection in AngularJS4
- Have you used LINQ before5
- What is promises in AngularJS6
- What is a service in AngularJS What is a factory in AngularJS What is the difference between them7
- Use javascript to write a function to test whether a string is a palindrome string
- Abstract class vs Interface2
-net framework features
-net framework
-Angular QuestionsHow do you rate yourself in AngularJSWhat are the filters in AngularJSWhat is routing in AngularJSWhat is deep linking in AngularJSWhat is MVCWhat is the order by filterHow does Angular
-Module worksWhat is nginclude directiveWhat is RouteScopeWhat is AngularJS extensibleextensibilityextensible
- page life cyclehttpwww
- Delegate in Chttpsmsdn
- event delegate in Chttpstackoverflow
- What are the types of cachehttpstackoverflow
-comquestions9728211cachetypesapplicationcache6
-sql acid propertieshttpblog
- Can you do multiple inheritance in Chttpstackoverflow
- Serialization in Chttpstackoverflow
- What are interfaceshttpstackoverflow
- Web API
-Dependency Injection in Angular
-Have you used Angular 1
-how to display duplicate records from the table
-What is html canvas8
-bunch c questionscan a class have multiple inheritancehow to inheritance multiplewhat is protectedwhat is protected internalwhat is base class in 
-net all classes derived fromwhat is immutabledifference between string and stringbuildercan we have different data type in arrayhow to sort a arraywhat is access by key valueif try catch didnt execute it will reach finally Yesnocan you have multiple try and catch
- What does an MVC model binder do2
- Describe how you would set up the structure an AJAX and be able to handle the responses coming back from it9
- What would you do to be able to handle errors Or a success from an AJAX call10
- What type of security implementation do you use in your MVC projects11
- How do you go ahead and how do you start off with a UI design and how do you take UX into consideration15
- You have an excel spreadsheet that is going to be broken up into multiple sheets and each one of those sheets is going to represent a page
- And the data elements that are expected on that page
- How do you start off How do you take that and how do you start your design aspect16
- Once you come up with your designs does anybody review them What is the process17
- What are some of the things that you take into from a technical perspective when you are designing a front end18
- When you are thinking about some of the containers or controllers that are going to be providing functionality what are some things you take into consideration19
- What are some of the basic class that youd need to use to create a responsive grid22
- What type of client side scripting have you done23
- Left outer join for LINQ30
- When do you choose to use master pages35
- You can create packages of themes outside of master pages
- When would you want to use this instead of master pages36
- What have you done in Angular38
- What is binding model in Angular How do you structure your project to do that39
- If you are using Angular on top of an MVC project how do you determine what Angular based components you will be using versus MVC components
- What version of Angular3
-NET MVC and Angular as well4
- How are request processed in MVC7
- How do you implement role based authorization in MVC12
- How do you handle errors in MVC13
-NET Web APA14
- Explain briefly your current application architecture
- Explain your data flow for Angular
- Do you use any orchestration layer in your Angular application17
- Have you implemented any C design pattern18
- Explain factory design pattern
- Have you worked on LINQ21
- Explain what is LINQ22
- What are the variants of LINQ available23
- What is partial view in MVC24
- Briefly explain the layers involved in your SOA and their functionalities
- How do Angular components interact There is a dropdown list that lists countries
- How does the interaction for these components interact in Angular29
- How do interceptors work in Angular32
- If I am using a pagination directive how can I be sure that it is being used multiple times in the same page
- What technologies did you use in your current project UI Rest API Backend Database2
- How was data being transported from Web API to Angular JS What request did you have4
- Did you use factory or service to connect to your Web API8
- What tool did you use in Angular to make your Web API call I want to know the syntax
- What is the difference between GET and POST I know that GET retrieves data and POST is uploading data
- Even when we use POST we are retrieving data so what is the real difference For example when you simulate a GET and a POST call in Fiddler what is the difference12
- How do you make an AJAX call synchronous14
- What is the return type of a GET or POST call19
- What does FirstOrDefault do in LINQ20
- Write a LINQ query that joins two tables
- How do you convert jQuery code to Angular code using directives25
- How do you use Entity Framework to get data from database in a list26
-AngularDifference between controller and serviceInitiate controller vs service  how they differentAdvantage of directivesPromise vs callbackany experience with angular2MVC concept  advantage using it
-How MVC worksput vs patchput http verb forpost http verb forpatch  http verb forCORS  how to handle itadvantage and disadvantage with multiple indexes in table
-how to do 2way data binding in angularjswhat is the difference between ngmodel and ngbinddifference between promise and callback in JStypes of providers in AngularJShow to do inheritance in JSwhat is closurewhat is isolation scopewhat is the issue with 1
-x related to 2 way data bindingwhat is action filters in MVChow to do serialization in WCFdifference between IENumerable and IQuerable
-AngularWhat is directiveHow you achieve two way databindingWhat is difference between promise and callbackWhat is the advantage of single page applicationCCan you inheritance multiple classDifference between String and String builder
-RedirectMVCHow you achieve routingWeb APIDifference between PUT and POST
- Web developer with very strong Asp
-net  C SQL 2012 JavaScript Entity Framework WCF and very strong UI development using Bootstrap and AngularJs  Expert Level
-It was a Vendor interview on Phone CallWhat is Union and Union All in SQLWhat are join in SQLWhat is Scope in AngularJsDescribe Angular Js ArchitectureHow to Integrate Bootstrap with Angular JsWhich C version youve usedWhat is two way binding in Angular JsIs ASP MVC Is two way bindingWhere to use Http
-Get and http
-PostHow to connect Database with AngularJsWhat is NGRepeatNgShowNGHide
- Have you ever used thisWhat is AJAX
-MVCWhat is routing in mvcWhat is in routing tableHow the routing worksWhat is the life cycle of each requestWhat are action filtersHow to secure the site other than the usual loginidpassword wayWhat are difference between tempdata vs viewdataWhat is viewbag how is it different from viewdataIn general why do we use design patternWhat design pattern used in the past experience Briefly explain each and case use it
-SQLAdvantage of inline function and store procedure
- Why do you use one over anotherWhat is SQL injection How do you prevent itWhat are different joinsIf you have 3 tables 1st one with few hundreds records 2nd one with few thousands records and 3rd one with few millions records
-When perform joinsfilter on three tables which way is faster from smallest to largest or largest to smallestWhat is SQL profiler Brief explain past experience using it
- What motivated you to move from Webforms to MVCQ2
- Why did you use jQuery and AJAXQ3
- Which approach did you use for Entity Framework Code first or database firstQ4
- Why did you use Angular JSQ5
- Have you used Web API Have you used Node JS Which ones betterA
- I answered I prefer Node JS because that is what I have worked with on my project so Im more comfortable with it
- Have you worked with NoSQL Which database in particularQ8
- Would you be comfortable with Angular 2
-Round 1Syntax for creating object variable in JavaScript Which tool you have used for version Controlversion you have usedexplain how will you resolve conflict on your pageRound2It was coding roundi had to create MVC application where employee name and department name is to bind todropdown based on that the list of employees had to filter and when we click on employeein employees list the detail of empolyee should be displayed in modal popup
-In sql server i had to create 2 table employees and departmentstore proceduresRound 3IT was with Project managerthey asked me question about my resume and explained me about position
-Managerhe asked me questions like Why you want to work with GEPWhat are your expectation from your Project manger Qualitites needed in good project manager
-1 Web Api pipeline2 Triggers and their types and can we use select statement in triggers3 how angular js commumnicated with web api4 what is 3tier architecture5 Store procedure6 how you implement authentication and authorization in webforms7 how to implement authentication and authorization in angular js using webapi8 How does webforms communicates with database9 How many team members have you worked with10 tell me something you have worked with according to our company requirements11 difference between union and union all12 tell me about angular js project you have worked13 How to improve performance in front end in html if you have 1000 of records14 Fiddler15 Code first approach and data first approach
-What are the differences between Web APIWCFWeb ServicesWhat are the differences between HTTP and HTTPSWhat do you expect from HTTP callIf you go into your browser and type in a http link what are the steps it went throughWhats the benefit using AngularJSWhat are the differences betweenASP
-NETMVCWhat is the major benefit using MVCWhat is hash tableDifference between hash table and dictionary
-Whats the differences between interface and abstractCWhen you writing store procedure what will you use temp table or table variableWhats the difference between UNION and UNION all and which one is faster
-Difference between class and object
-Why we consider javascript client side languageWhen we enter a site on brower what are the steps usally happenAny tools used before to test http callsWhat does a http call usually returnWhat does AJAX call returnHow you make a AJAX callWhy do we need asynchronous callIn javascript whats the difference between let and var
-Whats the difference between promise and callbackUsed any SCSsource control system before what are they use forHow Angular binding workDifference between onewaytwoway binding and ngmodel
-NET MVC in controller what is return type for a viewWhat does JSONresult returnWhat is the base class these result derive fromand few more questions I dont remember
-What is the difference between interface and abstractEvery single Method declared in an Interface will have to be implemented in the subclass
-a class that implements an interface must provide an implementation of all the methods of that interfaceabstract classes may contain state data members andor implementation methodsabstract classes can be inherited without implementing the abstract methods though such a derived class is abstract itselfCan you implement multiple interfacesA class can implement multiple Interfaces
-If two interface have the same method signiture can you those interfaces implement in the same classif the return types are the same you can
-What is a generic typeIn a generic type or method definitiona type parameters is a placeholder for a specific type that a client specifies when they instantiate a variable of the generic type
-What does the T stands for in generic typearbitrary type TWhat is an extention method in LINQ queriesWhat is an ananymous type 
-What parameter takes WHERE classhow does this where condition mapped to the collection objectWhat is a delegateDelegates are essentially function pointers but with extra multicast capabilities built in
-So you can assign several functions to the same delegateand they will all be called in sequence when the delegate is called
-What is an event handlerWhen events occur the application should be able to respond to it and manage it
-NET raised at the client machine and handled at the server machine
- Web
-NET engine http moduls verifies and giv it to the server
-On the client
-Difference between Web API and WCF
-Difference between WCF binding and basic Http binding
-Coelsce functionDifferent joinsHow to join two tables on different servers
-Defining the database objectWhat reporting tools did you use reporting toolsControl flow in SSRSDynamic sql
-How to implement dynamic query
-What are nullable typesWhat is a temptablewhat is the difference between unique and primary keyswhat is table variableThere is a query with 20 Joins
- How do you solve the problemWhat is an interfaceWhat is a class and module in CHow to pass data between cotrollers and viewsHow to find duplicates in SQLHow do you create modal pop up with JS
-You have a DB and pass data from dB to the client through WCF
- The data coming from the client side is corrupted
-Questions about how to debug front end backendwhat are the html extenders in MVCwhat do you do to learnget familiar with an application
-null vs undefined vs  which is fasterRest verbs http requestDescribe two programming paradigms in JSWhat patterns are used in JSDifference between prototypical and classic inheritance in JSDescribe functional programmingPros and Cons between functional programming and OOP in JS
-What is asynchrouns programming Why is that importantPros and cons between microservice and model for restful applications
-What are optimization strategiesHow do you do unit testing for a function returning Hello World in Jasmine
-ArrayArraylistHashtablePerformance differences between these threeSealed classTDDUnit Testing
-Struct vs class
-Abstract vs interface In common they enforce certain hierarchies for all the sub classes
-Which classes are the delegates derived from System
-What are partial classes10
-How to implement singleton design pattern
- design pattern where did you use2
-LINQ did you use conventional one or lambda
-How do you provide authentication and security in WCFkendogrid performs paging client side or server side what is the specificrequrement in your project to use kendo grid and why you implemented paging which collection is fasterwhy bootstrap even if we can achieve it by css why not CSShow do you return data in xml from databasecross apply and outer apply in sql serverhow do you query xml using linqcan you query html using linqWebApi securitywhen do you generate token and how furthur reuests and responses will use token and how do you consume apis using angularjs and mvcajaxHow do you provide security if i directly call web api from browsermvc actionresult reurn typeshow do you make mvc asynchronous calls other than ajaxajax helpersMVC request life cycleIQueryable vs IEnumerable
-How do you provide authentication and security in WCFkendogrid performs paging client side or server side what is the specificrequrement in your project to use kendo grid and why you implemented paging which collection is fasterwhy bootstrap even if we can achieve it by css why not CSShow do you return data in xml from databasecross apply and outer apply in sql serverhow do you query xml using linqcan you query html using linqWebApi securitywhen do you generate token and how furthur reuests and responses will use token and how do you consume apis using angularjs and mvcajaxHow do you provide security if i directly call web api from browsermvc actionresult reurn typeshow do you make mvc asynchronous calls other than ajaxajax helpersMVC request life cycleIQueryable vs IEnumerable
-Extension methods And code for that using this keyword and staticPartial classesGeneric collections and methods for stackVar and dynamic keywordAutomatic propertiesreadonly vs constIQueryable vs IEnumerabledefered exeution and immediate executionsome linq queries both query syntax and method syntaxlambda expressionlazy loading and eager loadingrouting in web apiauthentication and authorizationwhat encryption technique you used to store password in databasedata annotationsexception handling and what kind of exception template or error message did you use to handle exceptions in web apihow do you debug webapi using fiddlercontent type in content negotiationDesign patternsbridge pattern
-Mostly Project Related questions and on following topics1
- Web API2
- Features of MVC 55
- Features of SQL Server 20146
-Screening Interview by client
-How to implement data entity modelExplain flow of data using ADO
-netHow to optimize your data baseHow did you make connection to your database without using entityHave you ever worked with huge amount of data records and how did you handle it
-ready functionsmodel bindershow to handle two submit buttons in one form in mvccode refactoringunit testingWhat was the mistake that you did in your projectwhat did you develop in your project that you can say proudlyRoutings in mvc
-Features of MVC that you find most usefulSQL JoinsQueries Types ExamplesPassing data from Controller to controllerDelegatesAngular RoutingAngular DirectivesCustom DirectivesWhat is it Why to use SyntaxMVC FiltersException HandlingSession Management in MVCSession Management in Web Forms Token Based Authentication Contracts in WCF services Fault Contract in WCFHow to use
-Describe OOPWhat different between abstract vs interfaceWhat is differencebetween value vs refWhat is the difference between string vs string builderWhat is difference between API and MVCWhat is Protect access modifierWhat is internal access modifierWhat is different between overloading and overridingis it possible to override a static method in derived classHow to you prevent a class from being inheritWhat is CursorWhat is difference between delete and truncatewhat is difference between stored procedure and functionHow do you improve SQL executionDo you know what is execution Plan
- difference between hash table and dictionary2
-which part of a application do you enjoy coding is it UI or back end
-aunthentication and authorization in MVC5
-Password encryption in database6
-3rd normalization in SQl database design7
- what are the unit test frameworks that you are familiar with11
-how often do you run the application and unit test12
- have gone through the design documents of your fellow developer when he is not around
- when does the QA team test your application
-SQLWhat is a stored procedureWhy would you use temp dataHow would you check for error in store procedureWhere and when would you use triggerJQueryWhat is Cross Site ScriptingWhat is SQL InjectionWhat have you work with in JQuery
-1 He asked me about my Background2Html 5 features3Responsive Web Design4Basic Question about Object Oriented inheritanceobjectEncapsulation5how to make table border curved6token Based Authentication7Action Filters8what is RestFull Application
-How would you represent Animal Kingdom in a Class structure Dictionary Vs Generic Lists and Hash tablesPerformance Memory Usage Efficiency etc Features of C that you find most useful
- Features of MVC that you find most useful
- Testing in MVCWhy How Documentation work for the project Interaction with the testing team
-Web Api Web ServicesHow and where in the projectREST vs SOAPWhy MVCWhy AngularSecurity in the project
-1 Introduce yourself2 Tell me about latest projectSQL1 Joins and different kinds of joins2 Index and different kinds of index3 stored procedure  where you used it in your project4 triggers5 viewsOther technical questions1 Closure2 Design pattern3 Dependency injectionExplain all the projects you have worked on
-Do you face any performance issues in previous projectsSQLHow do increase the performance of a viewIn Jquery How do you select the particular Element from DOMUse of Repository patternWhat are clusterINDEXdifference between Temptable temp variable and ViewCan you call the stored procedure and Userdefined Functions in select statementsDo you ever used third party tools
-Description of technologies you usedTriggers on entity frameworkIn Entity Framework what is pluralizedExtension of Entity FrameworkHow do you get store procedure into Entity FrameworkThird Party controls for front EndWhat is RazorHave you worked on Code first approach
-Asked some questions based on projects index in SQL clustered nonclustered what is interface difference between reference type and value type difference between data adapter and reader whatwherehow do you use linq design pattern singleton and factory string gt i talked about it and also mention string builderthere are more cant remember them
-Introduce yourselfDifference Between Class and StructureHow do you test the store procedurewhat are the triggers you used in your projectsValue type VS Reference typewhy we use LINQwhat is IQueryablenamespace for using IEnumerableDebug a page which is not loading the particular webgrid
-What are views and indexes and different types of indexes and how you implemented itHow do you check the checkbox is checked using angularJsHow do you make sure that all the corresponding class objects are loaded in the application if not how do we do that manuallyWhat are triggers for what action in database you used itWhat is cross join  Have you ever implemented Ref an Out objects in CWhat are extension methodsWhat are enumerable types in CWhat are filtersWhat are design patterns and how you used in projectWhat is dependency injectionHow can we retrievemultiple tables from database
-ltdiv classtitlegtltpgtISF Applications DevelopmentltpgtltdivgtWhat are the different ways could you make the ISF Applications Development text appear with a yellow background Give as many as you know
- Write a function that calculates the sales tax rate in  given the sticker price and actual amount paid
- Write a function for validating an email address that meets the following minimum requirements at least 10 characters 1 lowercase letter 1 uppercase letter 1 number and no sequential lowercase letters
-net application to MVC 6
- How will you improve the performance of the application
-How does an angular application work
-1What is Type Script2how do you consume rest API in angular3what is scope in angular4how do you manage request in rest API5Explain MVC6Role based securities7explain about your last project
- find all element p tags on page which they dont have any classstyling3
- Given the following html snippet     96    Normal  0        10   0  2    false  false  false    ENUS  ZHCN  XNONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Style Definitions table
-0ptltdiv classtitlegt ltpgtISF Applications DevelopmentltpgtltdivgtWhat are the different ways could you make the ISF ApplicationsDevelopment text appear with a yellow background Give as many as you know
-addClass assume we havethe css class yellowClass for the p tag p
- ltp class yellowClassgtISF ApplicationsDevelopmentltpgtProblem 2 Write a function that calculates thesales tax rate in  given the sticker price and actual amount paid
-By considering the terms in the Fibonacci sequence whose values do notexceed four million write a function that will find the sum of the evenvaluedterms
-1Current Project2 Triggers in SQL3OOPS Concept4SSIS Experience5Explain what is SSIS package6Explain what variables in SSIS and what are the types of variables in SSIS7Role based Authentication
-Whats exception handlerHow to handle http request How to do custom Routing in MVC or AngularJS
- Lock function9
- Routing Virtual Routing Routing Manager in MVC11
- WCF service create consume deploy
-Why cdesign patterns and explanationArchitecturehow did you implement Code first approachdesign paradigmTDDLINQJasminemultithreadingdependency injection
-How to add new row into the table using code first approachinterface and abstract classtemp table and temp variableAction filtersException handlingsingleton session management techniques in MVCpartial view and view differencesHTML helpersMVC request flow
-Current Project Role Responsibilities and technologies useda
-Worked as both front end and back end devb
-Used Angular JSCSSHTML5 JavaScript C MVC2
-Angular JSa
-C MVC LINQSQL Servera
-MVC Page life cycleb
-LINQ Advantages over Ado
-s1 fontkerning noneQuestion 1 Write a function to find the longest common prefix string amongst an array of strings
-substring0i                                   return prefix    else     return strs0     Question 2 given trade table how do you retrieve newest versiontblTrade
- Implement Abstract class and interface inherit the interface to Abstract class and implement the methodsJavascript4
- what is Secured API8
- How did you consume the Web Api in Angularjs11
- Joins in SQL12
-NETMVCa
-NETMVClifecycle diff Action result partial view
-What are the frameworks you used todo for client side and server side
-Interviewer 1Tell me about yourselfWalk me through your recent projectWhat enhancements did you make on this projectWhat was the difficult thing you faced during this projectwhat technology have you learntby yourselfSQLDifferencebtw truncate and delete which makes identity to resetQuestions on indexesIf you have one stored procedure then how do u call other stored procedure while executing ithow to test your stored procedurehow do you get tocount the columns if you donthave a primary key in it but just first nameand second name I told wecan use rank column such as using row_numberwhat is a cross join and where did use itdid you work on getting XML data in sql  I said Inever tried it but given a chance i would like to try it
-MVC what version of MVCyou usedwhat is action resulttell me about qualitiesof MVCwhat is dependencyinjectionwhats new in mvc5what design patterns you knowwhat are extensionmethodswhat is routingdiff btw view and a partial view Have you used the partial view in your application and whereCtell me what you know about interfacesInterviewer 2Tell me about yourselfhow good you understand financial terms as it is a financial companywhat table you used in your projecttold me to write a query  we have customertable and another tablehow dou get top 5 values by joining those tableswhat is the default typein joinsalso told me to write a logic on getting profit or lossdepending on my project tablescdifference between value and reference typewhich type is a stringand whywhat is polymorphismInterviewer 3gone through about myselfwhat are html helpersdiffencebetween dataset and datareaderwhat is the difference between webform state management and mvcstate managementgiven a query on sqlcase and what it returnsSELECT ID WHEN NullNull THEN yes  FROM EMPLOYEEMy answer I identify as isNULL which was correctAnother querySelect DEPARTMENT sumSALARY Total_Salary from employee group by DEPARTMENT having sumSALARY gt800000My answer we should give group by DepartmentHave you worked on query optimizationHave you worked on support calls ssrsIf you are alone in the office who do u approach first if you get any support call
-Interviewer 1Tell me about yourselfWalk me through your recent projectWhat enhancements did you make on this projectWhat was the difficult thing you faced during this projectwhat technology have you learntby yourselfSQLDifferencebtw truncate and delete which makes identity to resetQuestions on indexesIf you have one stored procedure then how do u call other stored procedure while executing ithow to test your stored procedurehow do you get tocount the columns if you donthave a primary key in it but just first nameand second name I told wecan use rank column such as using row_numberwhat is a cross join and where did use itdid you work on getting XML data in sql  I said Inever tried it but given a chance i would like to try it
-MVC what version of MVCyou usedwhat is action resulttell me about qualitiesof MVCwhat is dependencyinjectionwhats new in mvc5what design patterns you knowwhat are extensionmethodswhat is routingdiff btw view and a partial view Have you used the partial view in your application and whereCtell me what you know about interfacesInterviewer 2Tell me about yourselfhow good you understand financial terms as it is a financial companywhat table you used in your projecttold me to write a query  we have customertable and another tablehow dou get top 5 values by joining those tableswhat is the default typein joinsalso told me to write a logic on getting profit or lossdepending on my project tablescdifference between value and reference typewhich type is a stringand whywhat is polymorphismInterviewer 3gone through about myselfwhat are html helpersdiffencebetween dataset and datareaderwhat is the difference between webform state management and mvcstate managementgiven a query on sqlcase and what it returnsSELECT ID WHEN NullNull THEN yes  FROM EMPLOYEEMy answer I identify as isNULL which was correctAnother querySelect DEPARTMENT sumSALARY Total_Salary from employee group by DEPARTMENT having sumSALARY gt800000My answer we should give group by DepartmentHave you worked on query optimizationHave you worked on support calls ssrsIf you are alone in the office who do u approach first if you get any support call
-Describe the similarities and differences between an abstract class and an interfaceWhat collection can be used to store elements of different typesHow to design the Node type of any complex data structureHow to determine the type of an unknown object at run timeGiven a table named Employee and the following table schemaEmpId EmpName Month BonusWrite a query that returns those employees who received a bonus in June onlyWhat happens when a Valuetyped object is passed as argument to a method What when it is a ReferenceTypeSay that you have a database query that runs smoothly
- Then the next day the same query is running very slow
- What problem in the database could this be an indication of
-What is WebAPIwhat is const and readonly in cAgile Scrumrole of modules in angular2databinding in angular2what is variables access modifier by default in typescriptdependency injection in angular2unit testing in angular2how to test backend api using angular2
-They started asking me about my recent project why angularjs framework for testing dependency injection framework for dependency injection what are features of restful services what are rest principles why entity framework pros and cons how i was interacting with the team tool used for the same what would be your first approach when you hear any issue what was the biggest challenge faced during previous project stored procedure with entity framework what are triggers what framework used for logging why and what services used in angularjs
-Tell me about yourselfsql what are triggers diff btwn truncate and delete scenario based diff btwn function and stored procedure
-what is delegate dependency injection multicast delegate how to implement token based security why entity framework how do you make a function asynchronous diff btwnasync and await keywords why restapiwhy angularjsGiven two sqlqueries to write
-Shown a function and asked to make it asynchronous
-introduce yourselfrecent project how big was the team how you use to coordinate with each other what tool usedhow did you learn angularjswhy angularjstesting framework usedwhat is dependency injectionwhat is restful servicesdiff between readonlyand const variableswhat is heapwhat is garbage collectorhow garbage collector workshow do you implement garbage collector externallyhow dependency injection works in angularjs how do you call itdid you participate in codepeer reviews
-how big is your teamwhat is the velocity of your teamare you comfortable in working frontend or fullstackwhywhat are the challenges you faced in your projectHow you solve themwhat kind of difference you found in Indian work environment and in USdetails of the recent projectis your recent project livecan we access your recent applicationhow will you improve efficiency in your projectwhat is your day to day activity Any difficulties
-Diff between managed and unmanaged codeDiff between class and objectDiff between stack and heapWhat is 
-Net Frameworkwhat is inheritance and advantagesWhat is Bootstrap in AngularJSWhat is ASP
- How did you achieve itwhat are components in angular 2 how did you write a REST Api 
- what is RESTwhat is Object oriented Design in Javascript what is interface Abstract classhow did you create objects in javascriptwhat is javascript hoistingTell me about your NodeJS experienceWhat kind of Mongodb queries you have usedWhat middleware you used on expressjs
-why are the advantages of AngularJSwhat is the difference between ClientSide and Serverside Technologieswhat is routing in AngularjsHow did you use the Routing to develop SIngle Page ApplicationsWhat is databinding in angularjs what is digest CycleModules and components in angular2services in angular2Eventbinding and property binding in angular2MVC Partial view  Layout
-How does routing works in MVCwhy do we need golbal
-asaxwhat is bundling and minififcationdifference between ViewResult and ActionResultJquery  Ajax callswhy do we use each in jquerywhat is use of documnt
-Netwhat are DelegatesHow did you use CallBack function in Delegateswhat is Execute Scalar and Execute NonQuerydifference between Truncate and Deleteunion vs UnionAllQuery on MAX functionQuery on self JoinDifference between Stroed Procedure and User defined Function
-How do you secure your WCF Servicedeploying from webserver  application server Configuration in securitycode reviewsAny static analyser toolsany tools used for code reviewswhat is the technique that makes Single Page Applications work
-Here is the solution that I came up withclass Program      static void Mainstring args          int input  new int  1 2 3 2 5       int output  new int5      int counter  0      for int i  0 i lt input
-3 what are the different ways to render pages
-Differenec between Stored Procedure and FunctionsDataset vs DataReaderwhen will you use stored procedure to write sql select querieswhat is connection pooling How it workswhat is Reflectionwhat is MVC PatternREST vs SOAPExplain MVC PatternWhat is use of Global
-1 Two coding questions sql server which involves update and group by clauses and other aggregated functions
-How did you return multiple objects from a methodwhat is difference between angularjs and jquery in Perfomancewhat is inheritancewhen do you use stored proceduresScenario based questions on SQL querieswhat are optional parametersUser controls scenario based questions
- given an input array like 3 1 3 1 4 2 create a function to output like this 3 1 2 1 3 42
- SQL Whats the difference between trigger and stored procedure
- AngularJS difference between watch apply and digest what is the difference between service and provider
- MVC What is the order of ActionFilters and how many types of ActionFilter5
- lock keyword and lock in entity framework
- httpwww
-comv1oraclegeuserIs this url follow the RESTful service rules
- MVCC2
- How can you avoid a method overriding in derived class5
- MVC life cycle6
- AngularjsDirective to validate  in text inputscope and rootscopeComponent   D
- SQLPrimary key and unique keyWhat is Stored Procedures   E
-Interviewed on technologies  Angular JS Angular 2 ASP
-NET Web API Entity FrameworkWhat is the difference between Web Application and SPAWhat is Routing in angular JS How do we define routesIn SPA when we click on a link then is a server request being madehave you worked with code analysis tools like refactorhave you worked with nunitscope vs rootscopeWhat is an MVC patternwhat are the different types of routingWhat is dependency injectionWhat are generics
-Reverse First K elements of QueueInput  Q  10 20 30 40 50 60 70 80 90 100k  5Output  Q  50 40 30 20 10 60 70 80 90 100CMVC1
-MVC life cycle
-AngularjsDirective to validate  in text inputscopewatch digestSQLGet the student the details who obtained 2nd highest Marks
-recent project  day to day activitiesArchitecture of recent projectAngular2viewChildHow do you make WEB API calls in angular2input output in angular2Difference bw AngularJs vs Angular2How do you return XML data in ASP
-NET Web APIHow do you use AngularJs in ASP
-NET MVCFilters in ASP
-NET WEB APICan we use httppost to delete recordCustom filters custom authentication filtersHow do you update multiple records using ADO
-NET with out using any loopsdata tables
-Stored Procedure vs functionInteger arrays Input1 and Input2 return the maximum length of an subarray that appears in both arrays
-Dont use any builtin methods  functionsUse minimum space complexityInputInput1 3241242117Input2 14211Output 4
- About recent Project2
- Angular Directives3
- Angular Controllers4
- MVC State Management5
- MVC TempData ViewData6
- Advantages of MVC7
- What is the function to wrap up page content in bootstrap8
-what is the function to highlight data in bootstrap
-How did you provide security in your projectJavaScript this vs c this variablevar vs let differenceswhat are promises Promises vs Callbackshow did you protect your api from unauthorized accesswhat are ClosuresWebAPI vs MVCAction FIlters in MVCError handling in MVCwhat are Data AnnotationsTypes of Action ResultsApllication ErrorAreas in MVCStored Procedure vs Functionswhat is Partition ByQueries to find 2nd top most salaryQuery to find duplicate idshow did you handle exceptions in productionwhat will you do if any page has high response time while in production How will you approach
-Face to Face round with ClientClient  FIS GlobalSince the client is a financial company they were more focused on multithreading for large volume transaction processing and security
-They asked questions on FIX Angular 2 how to secure the application  something related with JWT Multithreading C advance levellock multiple thread communication deadlocks and synchronization etc How to secure a web API so that anon user cannot see the response from web api Deploying on IAS Memory Profiling
-Difference between AngularJS vs Angular2How would you resolve Component Reference ErrorHow did you do Angular Builddifference between a component and a directiveCommunication between ComponentsPropagate from one parent to multiple child components in Angular2can you do circular reference of modulesHow will you call apis from Angular2 How will you create error component for whole applicationhow did you protect your routesWhat is extension method in cOverriding and overloading in cDependency Injection Cwhy did you using in cWhat are Http GetPostPutDeleteInnerJoinOuterJoinLeft Outer Joinwrite a query to find the least cost item in a tablewhat if a query is working slow how would you resolve itif two users are updating a single row at a time how would you notify one user that the other user is updating it
-what is the architecture you used in your projectDependency injection in c where did you used itExplain the lifecycle of MVC vs Webforms appshave you used handlers where exactly they come in a asp
-net web application
-net vs fault exceptiontempdata vs viewbaghandle errors in mvcAction filters in MVCwhere did you use them any custom filtersRazor vs ASPX engineXML data through action to db response time is higher how did you solve itAction result vs view result  types of viewresultvalidations in mvcDesign patterns in mvc respository singletonbind data from view to modelroute attributes in mvcunit testing in mvc what kind of tools usedhave you used automapperwhat is jquery unobtrusivecall action from view in mvcbundling and minification cachewhat is view state is it encrypted where is it storedviewstate vs sessionsin proc vs outproc sessionslifecycle of asp
-net application from iisvar vs dynamicextension methodsdelegates what kind of delegates you usedinheritanceoverriding vs overloadingvar in javascript dynamic typed or compile time typedtype of var based on given valuesIenumerable vs Ienumeratorjoin in linqvarious types of joins questions on joinsquery to delete duplicate values if there is no primary key and identity columnfunctions typesWhat is WSDLWhat is AAddress Bbinding CContractcan we have multiple address multiple binding and one endpointquestions varying on multiple and single endpointsaddressesbindingswhat is service contract message contractcan we have two contracts through one endpointhow did you generate proxy classesEnable cors in webapireturn result in webapiwhat are http status codes meantlike 400500200404204502etc
-What is the HTML tag for a popup windowWhat is a flexboxWhat is JS method to stop execution and debug codeHow was the code review process in the team you worked inHow did you implement your unit testsDid you strictly adhere to unit testingHow was the code development process like in your teamWhat is a closureWhat is the use of the let keyword in JSName a good example of closure usage in web application developmentWhat is the difference between a closure accessing data outside the function scope and a normal function accessing data outside of its scopeWhy are you changing jobs right nowHow do you access two collections in a MongoDB database without using callbacks Use promise
-Name and describe specific RESTful APIs you built in your projects
- It must be importable in another JS module using the require keyword
-Describe a complex feature that you implemented from front end to backendDescribe a situation when there was a conflict of ideas in your team
-What is the difference functions and proceduresWhat is the difference between single promise and obserblesWhat is the difference between overloading and overrdingWhat are sealed classes in C sharpHave you used filters in angularJS
-net MVC filtersWhat is asp
-net MVC web cycleWhat is asp
-net web api and web serviceWhat is the difference between partial view and user controlWhat are action filtersWHat is data validation in asp
-Try to debug an angularJS application
-Basically data is not updating at the page
-What is a directive in Angularthey are designed to extend the html
-How to secure a web apiUse tokens
-In angular what is a promiseIt makes functions asynchronous
-What is the difference between TempData ViewData ViewBagData Adapter Data Reader Data Table and Dataset WHat is the difference between index cluster vs nonclusterWhy choose AngularJSWhat is the difference between interface and abtract
-Nullable Types in CTalk about projects and backgroundWhat is encapsulation in CWhat are pointers in CWhat is the difference between dynamic and objects in C sharpWHat is boxing and unboxingHow do you pass a value in charp in different waysWhat is early binding in CWhat is a value type in CHow do you sort an array and what is the quickest way to do itWhat is two way binding in AngularJS
-Ask things on resumeWhat is view StateWhat is the difference between Cache and SessionsWrite SQL statementsWhat is the security for angular 2 applicationWhat did you use triggers for
- But other programming languages are also acceptable
-js files into one moduleWhat is an API and how does it workWhat is SPAHow can you use SPAExplain routing
-Do you know what is a Partial ViewExplain Partial ViewSecond interviewCollectionsWhat its MVCMaximum number of records into a temp Table SQLInterfaceDelegatesPolymorphismSeparation of concernsSOLID principleWhat is Sigle Responsibility Principle
-Can you have two ltheadergts tag in html2
- what does ltrouteroutletgt do can you have two ltrouteroutletgt in html4
- How to check garbage urls and return 404page
-How to design front page
-WCFDifference between ListArraylistWhich one is GenericampNoneGenericNullable types CIf you have view based on 2 tables which one will be updated firstTriggersValidations MVCCache Web Forms
-Angular Js         gt What is controller promise Scope RootScope Services Databindingone way or Two way how to do that ValidationAngular 2         gt Services dependency injection Observablesubscribe Directive Databindingone way or Two way how to do that routing ngIf Ng       showValidationstructural directivesWebapi        gt Get Put Post Delete method Authentication Return type action result Ihttpresponsemessage allMVC       gt MVC architecture How to transfer data between controller or view Tempdata Viewbag ViewData Validation Authentication FormWindowsand passport   what is passport authenticationC     gt Abstract class Interface Oop concept Extension Method Delegate how to use and why we use Boxing and Unboxing Ref and Out parameter ref and value parameter Constant and read only Webconfig how many Webconfigcreated in project DisposeSql     gt Primary key FK CTE Trigger PerformanceOther    gt How to improve the performance in front end and back end    gt Project management tool git or gitlab or tfs    gt How many team member in team                        gt Did you face anytoughest task
-NetWhat is GACSQLDifference between stored procedure and user defined functionExplain the SQL query for returning highest salary from employee tableExplain the SQL query for returning the second highest salary from employee tableOtherTell me about your current projectWhat got you into codingHow do you keep up with new technologyWhat was the latest project you did on your own time
-MVC QuestionsExplain ViewBag and ViewData
-NETExplain system exception and application exceptions
-NET framework
-MVC1
- Routing pattern5
- WCF vs Web APISQL1
- Grant in SQL3
- SQL Optimization
-What is Dependency Injection How did you use it in your ProjectWhat is AuthGuard  CanActiveDeActive How did you use it in your ProjectWhat are the observables and Rxjs libraryWhy did you use two ApisHow did you test in PostmanWhat is the Router How did you use itWhat is Lazy Loading is it Automated
- Angular What is closure2
- SQL Whats the difference between a function and a stored procedure3
- SQLHow many rows will there be if the two tables are leftjoinedHow many rows will there be if the two tables are rightjoinedHow many rows will there be if the two tables are innerjoined4
- MVC How to you connect to the database with or without Entity Framework5
- SQL With SQL server what would you do when there is a change of columns in the database6
- JavaScript If I make five timeconsuming database callsat the same time how does JavaScript process these calls7
- Angular What is Promise Whats the difference between Promise and Observable8
- Angular What do you use CLI for10
- Angular Whats the difference between a component and a directive Where did you use a directive How do you use it11
- What is a REST API13
- How do you enable web security in Web API15
- Angular uses TypeScript
- How do you deploy an Angular application You need to create an executable application
- Angular uses TypeScript
- What happens when you deploy an application18
- Whats the difference between a webform and an html form2
-Angular1
- ways to optimize angular web application4
- How can you only create one instance of Service through the whole application13
- some practices to secure an Angular Application14
+,0
+0, I confidently answered all the questions Mainly the questions were asked related with MVC 4
+1,What is design patternWhat is the difference between the user control and custom control
+2,AngularJSWhat Directives have you used
+3,what is ngmodelnot sure for this one Something about scopeSQLwhat do you do when you find that connection is not responding for 1 minCSingleton patternMVCTempData ViewData ViewBagWhy you use ViewBag instead of ViewData what is the differenceEntity Frameworkcode first VS database first approachhow to design sp using code first method
+4,AngularJSWhat Directives have you used
+5,what is ngmodelnot sure for this one Something about scopeSQLwhat do you do when you find that connection is not responding for 1 minCSingleton patternMVCTempData ViewData ViewBagWhy you use ViewBag instead of ViewData what is the differenceEntity Frameworkcode first VS database first approachhow to design sp using code first method
+6,What is a hashtableWhat is the difference between truncate and deleteWhat is a delegateWhat is a left outer joinCan you rollback a truncate commandWhat is public static void
+7,What is refactor how it is usedhow to capture requirementsHow to handle performance issuesHow to deal with a bugWhat is tracingSome basic sql design questionWhat is load balancing and how does it applies to EFSome basic programming question sorting that stuffhow to read a key from webconfigeager locking vs pessimistic lockingexplain concurrencyHow to manage a sessionExplain MVCExplain scope rootscope and isolated scopeHow to cope with change in your designMail automation requirementshow does routing works in MVC How do you solve multiple routes with same signature issuesexplain manual binding in angularExplain dependency injection in AngularWhat is a service in AngularHow would you inject a function in angularProbably more if I remember I will add them
+8,What is refactor how it is usedhow to capture requirementsHow to handle performance issuesHow to deal with a bugWhat is tracingSome basic sql design questionWhat is load balancing and how does it applies to EFSome basic programming question sorting that stuffhow to read a key from webconfigeager locking vs pessimistic lockingexplain concurrencyHow to manage a sessionExplain MVCExplain scope rootscope and isolated scopeHow to cope with change in your designMail automation requirementshow does routing works in MVC How do you solve multiple routes with same signature issuesexplain manual binding in angularExplain dependency injection in AngularWhat is a service in AngularHow would you inject a function in angularProbably more if I remember I will add them
+9,Q what is the differencebetween repeater and grid viewA GridView displays your data source in an HTML table and extends it to allow paging sorting editing etc
+10, A repeater is a template control where you specify the html that is used to render each row
+11, A gridview can only show your data in a table but a repeater can show your data in any way you want by creating the relevant ItemTemplate
+12, for more detailshttpwww
+13,html
+14,Some SamplesSQL aggregate functions return a single value calculated from values in a column
+15,AvgCountFirstLastSQL scalar functions return a single value based on the input value
+16,What is an inline and block elementHow do you store data in the clientHow do you execute a SQL command in Web SQLHow do you get the current location of the clientHow do you make a page responsive in CSS without using a framework
+17,How would you reverse the order of an arrays elementWhats the port number of SQL Server1433
+18,Whats the difference between a local temp table and a global temp tableA local temp table is accessible for one user connected to the database
+19, A global temp table is accessible by all connected users
+20,How do you declare a local temp table and a global temp tableCREATE TABLE localtemptablename
+21, Uses one CREATE TABLE globaltemptablename
+22, Uses two How are transactions usedBegin the transaction Commit the transaction if you want to save the changes Rollback the transaction if you want to undo the changes
+23,Whats the difference between Truncate and DeleteTRUNCATEremoves all rows from a table but the table structure its columnsconstraints indexes and so on remains
+24,You cannot use TRUNCATE TABLE on a tablereferenced by a FOREIGN KEY constraint
+25,DELETE removes rows one at a time and records anentry in the transaction log for each deleted row
+26,Whats the difference between REST and SOAPREST can use different data formats but SOAP can only use XML
+27, REST has to use HTTP but SOAP can use different protocols
+28, REST is faster
+29,REST uses the HTTP buildin headers with a variety of mediatypes to carry meta information and use the GET POST PUT and DELETE verbs to perform CRUD operations
+30, REST uses URI and methods like GET PUT POST DELETE to expose resources
+31,How would you save the last time a file in a virtual directory of images was accessed in a tableSomething to do with HTTP HandlerModules
+32,MVCWhats a predicateWhy is it called MVStar or MV i dont know instead of MVCWhats the difference between json and partial view I know thats a weird question but it happenedWhat can ajax calls returnCWhats an action Not MVC actionAngularJSHow did you handle exceptionsHow did you interact with the databaseExplain the apply lifecycleHow did you use digestWhats the difference between custom and value types
+33,Vendor questionsc1difference between string and string builder2difference between clone and copy3 private  protected and protected internal4 can a private class be inheritedsql interview questions1local table and global temp table2 TransactionsThen he said i think you know stuffs so he stopped and sent me face to face interview request to Windsor
+34, The ones I rememberDifference between String and StringBuilderString is immutable which means that every time you assign a new value to a String object the system has to create an entirely new string
+35, StringBuilder is a class designed to circumvent this problem
+36,Difference between chr and asc I assumed it is a SQL questionCHR or CHAR is a character data type single character while ASC is Ascending used in ordering SQL queries
+37, I may have misunderstood the question it came after several SQL related questions
+38,How do you link a stylesheet into a webpageltlink hrefwhatever relstylesheetgtDifference between to and to xIm not sure if I understood the interviewer properly
+39,What is SSIS and what is it used forSSIS stands for SQL Server Integration Services
+40, It is used for hosting and configuring Web Applications on a home server
+41,Does Angular use AJAX under the hoodFor the http service Angular uses AJAX
+42,What is AJAXAjax is a clientside script that communicates to and from a serverdatabase without needing a postback or page refresh
+43,What are the downsides to using stored proceduresModification of a stored procedure from its norm requires writing a new procedure or writing a unique query
+44, SQL Server will optimize stored procedures when they are used frequently as well leading to an increase in performance
+45,NET MVC Fullstack or partstackASP
+46,NET MVC is fullstack which is the idea of having everything you need for a web application in one framework
+47, A partstack framework requires an accompanying framework to handle the other sections of the application
+48, For example AngularJS being only frontend is partstack
+49,What are the default number of columns in a Bootstrap application12
+50,Why do you care about the columns in a Bootstrap applicationBootstrap columns are used to format an applications display based on the size of the screen
+51,When connecting to a database via LINQ is the data queried immediatelyNo
+52,What are AngularJS FiltersAngularJS Filters are customization options that can be set on datasets
+53, The filter can simply be a link to a variable field or a function that performs some truefalse result operation
+54,What is scopescope is a connection between the view and controller in Angular
+55, It is used with Angular expressions to show data in the view
+56,What are await and asyncUsed in multithreading a function defined as async is allowed to run outside and independently of the main application thread
+57, When await is used within one of these functions it has the async function wait for a period of time
+58,IQueryable vs IEnumerable Whats the differences Which executes queries immediatelyIQueryable is an extension of IEnumerable that is built specifically to deal with SQL queries
+59, IEnumerable executes queries immediately as it does not make use of SQL features
+60,How do you handle events in AngularJSYou use the 
+61,on function
+62,onclick functionHow do you handle an outside domain connectionNot sure did not answer this question
+63, For example in a function within an object the this keyword refers to the object that owns the function
+64,How do you check that your Session is valid when conversing between multiple databasesNo idea
+65,NETA directive is an HTML helper that is used to provide some sort of function within a page
+66,Difference between a table and a viewA table is a set of data within your database
+67, A view is a set of data combined from multiple tables or just a single table
+68, It does not have to contain all of the data within the tables selected
+69,Difference between a stored procedure and a functionA function must return a value while a stored procedure does not have to one of the many differences
+70, When the connection is closed or dropped the temporary variable is destroyed
+71,Do you use a temp table or a temp variable Which is betterIt depends on the scenario
+72, For example in a function you must use a temp table variable
+73,JavaScriptvar k  1if 1   evalfunction foo  k  typeof fooWhat would be the value of k
+74,multiplication23  6multiplication234  24How would you write the above functions as a single functionvar x  1var output  function  delete x  return x Output of x
+75,How is AngularJS different from other JavaScript functionsHow do you create a service in AngularJSWhat is routing in AngularJSHow would you communicate between controllers in AngularJSHow do you manage cookies in AngularJSWhat is a broadcast in AngularJSWhats the difference between scope and scopeOtherWhat is MVCHow did you implement browser compatibilityWhats the difference between HTML5 and HTMLWhats the difference between CSS3 and CSSJavaScriptvar k  1if 1   evalfunction foo  k  typeof fooWhat would be the value of k
+76,multiplication23  6multiplication234  24How would you write the above functions as a single functionvar x  1var output  function  delete x  return x Output of x
+77,What kind of testing have doneHow did you implement automated testingWhat kind of tools did use for testingHow did you do unit testing What tools did you useWhat kind of tools did use for improving performanceIf theres an application for data entry and the data enterers thats not a word but whatever can only enter 3 pages of data every ten minutes compared to the 10 pages they can enter every ten minutes in another application how would you improve the performance of the applicationWhats the difference between Web API and WCFHow do you version servicesWhat is a dependency injection What are the benefits of dependency injections How do they make testing easierWhat are the benefits of AngularJSHow did you do mocking
+78,Where to use Interfaces and Abstract classesUse of using statement in cWhat is Cache and types of cachestate management techniqueWhat are partial classesHow to you analyze the performance of an application which toolswhat is reflectionWhere did you use AJAX call Can we have two AJAX calls on same pageWhy WCF why not web servicesDifference between REST and SOAPHow to increase the performance of the WCF serviceDifference between local temp and global temp tableWhat is sql profilerCan we have two webconfigs in one fileWhat is fault contractHow do you improve a query performaceThere were some questions about my profile and the projects i had done
+79,what is fiddlerwhat is Lazy loadingNunitWhat is Wcfhow to write wcfuse of wcfmsmqEntity frameworkdisadvantage of entity framework
+80,asax functions4
+81, Create function that takes input I Like Cats and return output Cats Like I
+82,What is AngularJS Routing6
+83,What is WCF
+84,How do we create a manual proxy in WCF9
+85,What methods are used for AJAX to send request for connecting server side12
+86,Action Filters in MVC
+87,AngularJs and Web API Questionsfor what purpose you have created Web API how to store dataJSON Data that Web API is returning to the database
+88,Have you used Web API or microsoft APIWere you involved in developing Web API SQL Server database in your projectHave you used custom Directives in Angular HowFor EF have you used Database first approach or Code First approachWhat kind of directives we have in BootstrapFrontendHave you used internal CSS or framework for implementing CSS
+89,Interview questions on SQL and Object Oriented
+90,What is constraintWhat is Referential Integrityjoins in SQLOnetoMany relationship in SQLTransactionWhere we are writing Rollback statement in transactionI have multiple queries in Transaction so is it good idea to write everything in one transaction or maintain one transaction for each
+91,What is interface and Abstract classWhat are the things that we can write in interface and abstract classLike methods properties etcWhat is acronym SOLID in object orientedDesign PatternsFactory Singleton etcCan we instantiate interface and abstract classHow many interfaces we can implement using single classIs there any limitHow many abstract class we can inherit using single classvalue type and reference type in OO
+92,What is application settings in mvcwhat are 3 layers in chow to you provide security in webservicehow many records you have in your sql server table
+93,What is application settings in mvcwhat are 3 layers in chow to you provide security in webservicehow many records you have in your sql server table
+94,diff btwn interface and class3
+95, query performance in sql4
+96,application balancing6
+97,WCF and Webservices diff8
+98,NET  C and SQLdiff between machine config and web config
+99,without transactiondiff between thread and processIs thread is a processwhat is command in ADO
+100,NETdiff between data adapter and data readerIf I have the bunch of data in dataset and i want to store it in tablewhole data together then what method i should useHow I will read data from dataset without using loopwhat is auto post backhow to stop controls involving in Auto post backhow to stop client side validation
+101,related to API and SQL
+102,What is RESTfulWhat are the verbs used in REST APIUnit testingHow have you implemented Unit testingSQL Server PerformanceQuery optimizationApplication performance
+103,NET C jQuery and SQL Server questionscoded on white boardSyntax to inherit one class and implement two interfaces
+104,If i have one class which is implementing two interfaces and both interfaces have exact same methods then how will i get to know that this method is from particular interfacejQuery validationIf I have two textboxes having same name in different user controlsi
+105, UC1 and UC2 then what will be the id of textbox after running the APPQuery optimization in SQL ServerHow to improve performance of your application
+106,they give two tables table 1users ordganisation_IDOrder_id
+107,                   table 2order_id order description and had primary key relation with order_idWrite query to display all the records
+108,write a query to get count of users based on organization
+109,Linq query syntaxhad static variable and want to use in both pages
+110,NET  CAny problems faced during projects and how did you solve themWhat is a masterpagewhat is an error page
+111,What is ConstructorWhat is DestructorWhat is namespace How it is usedWhat is GACWhat are the types of errorsWhat is Page directive What it doesWhat is State ManagementWhat is PostBack how to store data while posting backWhat is Code BehindWhat is AutoEventWireupWhat are the techniques used for transferring data from one page to another pageWhat is Cross JoinWhat is Inner JoinLeft JoinRight JoinWhat is Method OverloadingWhat is dllHow to handle multiple dllsHow to loop through the controls on webpageWhat is ViewStateWhat is HTTPWhat is web
+112,Why angularjs why not jqueryjavascript
+113, You have 2 pages and 2 diff controllers
+114, you need to pass data from one page to anotherhow will you do that
+115,how does one mock http config4
+116,explain how will you mock your html pages and your viewsWeb api1
+117,life cycle of web api
+118,what is the advantage of using web api framework have you used any other dotnet framework with web api
+119,web api security4
+120,web api exception handling5
+121,diff btwn http post and http delete6
+122,MVC1
+123,Why MVC why not another framework2
+124,difference between abstract class and interfacewhere have you used linq in your project what is the advantage of itdisadvantage of using entity framework
+125,diff between wcf rest and restful APIwhat is restful web apiwhy have you used restful web api and wheresecurity in wcf
+126, what are the types of itwhat is view state where it is storedwhat is page directivewhy have you used stored procedure in sql serverpage life cycle of asp
+127,Focusing on MVC WCF Web API and SQL server mainly
+128,what is inheritancepolymorphismMVC routingSOA architecturehow have you implemented wcf service in your projectdiff between web service and wcfwhy SPA in angularhow have you implemented SPAdependency injectionNunit testingsource code version controladvantage of stored procedurewhy have you written stored procedure instead of writing everything in your codeTFS Agile methodologiesdisadvantage of jQuerysecurity in wcfhave you ever given any architecture design before working on any functionalityhave you ever created any documentationwhat is SSIS and SSRSasking more about what have you done in project and howwhat is route attribute in mvcsession management in mvcwhat will you do if your client will complain you that your application is running slow
+129, Project role description2
+130, MVC Architecture3
+131, How do you handle dependency injection in AngularJS4
+132, Have you used LINQ before5
+133, What is promises in AngularJS6
+134, What is a service in AngularJS What is a factory in AngularJS What is the difference between them7
+135, Use javascript to write a function to test whether a string is a palindrome string
+136, Abstract class vs Interface2
+137,net framework features
+138,net framework
+139,Angular QuestionsHow do you rate yourself in AngularJSWhat are the filters in AngularJSWhat is routing in AngularJSWhat is deep linking in AngularJSWhat is MVCWhat is the order by filterHow does Angular
+140,Module worksWhat is nginclude directiveWhat is RouteScopeWhat is AngularJS extensibleextensibilityextensible
+141, page life cyclehttpwww
+142, Delegate in Chttpsmsdn
+143, event delegate in Chttpstackoverflow
+144, What are the types of cachehttpstackoverflow
+145,comquestions9728211cachetypesapplicationcache6
+146,sql acid propertieshttpblog
+147, Can you do multiple inheritance in Chttpstackoverflow
+148, Serialization in Chttpstackoverflow
+149, What are interfaceshttpstackoverflow
+150, Web API
+151,Dependency Injection in Angular
+152,Have you used Angular 1
+153,how to display duplicate records from the table
+154,What is html canvas8
+155,bunch c questionscan a class have multiple inheritancehow to inheritance multiplewhat is protectedwhat is protected internalwhat is base class in 
+156,net all classes derived fromwhat is immutabledifference between string and stringbuildercan we have different data type in arrayhow to sort a arraywhat is access by key valueif try catch didnt execute it will reach finally Yesnocan you have multiple try and catch
+157, What does an MVC model binder do2
+158, Describe how you would set up the structure an AJAX and be able to handle the responses coming back from it9
+159, What would you do to be able to handle errors Or a success from an AJAX call10
+160, What type of security implementation do you use in your MVC projects11
+161, How do you go ahead and how do you start off with a UI design and how do you take UX into consideration15
+162, You have an excel spreadsheet that is going to be broken up into multiple sheets and each one of those sheets is going to represent a page
+163, And the data elements that are expected on that page
+164, How do you start off How do you take that and how do you start your design aspect16
+165, Once you come up with your designs does anybody review them What is the process17
+166, What are some of the things that you take into from a technical perspective when you are designing a front end18
+167, When you are thinking about some of the containers or controllers that are going to be providing functionality what are some things you take into consideration19
+168, What are some of the basic class that youd need to use to create a responsive grid22
+169, What type of client side scripting have you done23
+170, Left outer join for LINQ30
+171, When do you choose to use master pages35
+172, You can create packages of themes outside of master pages
+173, When would you want to use this instead of master pages36
+174, What have you done in Angular38
+175, What is binding model in Angular How do you structure your project to do that39
+176, If you are using Angular on top of an MVC project how do you determine what Angular based components you will be using versus MVC components
+177, What version of Angular3
+178,NET MVC and Angular as well4
+179, How are request processed in MVC7
+180, How do you implement role based authorization in MVC12
+181, How do you handle errors in MVC13
+182,NET Web APA14
+183, Explain briefly your current application architecture
+184, Explain your data flow for Angular
+185, Do you use any orchestration layer in your Angular application17
+186, Have you implemented any C design pattern18
+187, Explain factory design pattern
+188, Have you worked on LINQ21
+189, Explain what is LINQ22
+190, What are the variants of LINQ available23
+191, What is partial view in MVC24
+192, Briefly explain the layers involved in your SOA and their functionalities
+193, How do Angular components interact There is a dropdown list that lists countries
+194, How does the interaction for these components interact in Angular29
+195, How do interceptors work in Angular32
+196, If I am using a pagination directive how can I be sure that it is being used multiple times in the same page
+197, What technologies did you use in your current project UI Rest API Backend Database2
+198, How was data being transported from Web API to Angular JS What request did you have4
+199, Did you use factory or service to connect to your Web API8
+200, What tool did you use in Angular to make your Web API call I want to know the syntax
+201, What is the difference between GET and POST I know that GET retrieves data and POST is uploading data
+202, Even when we use POST we are retrieving data so what is the real difference For example when you simulate a GET and a POST call in Fiddler what is the difference12
+203, How do you make an AJAX call synchronous14
+204, What is the return type of a GET or POST call19
+205, What does FirstOrDefault do in LINQ20
+206, Write a LINQ query that joins two tables
+207, How do you convert jQuery code to Angular code using directives25
+208, How do you use Entity Framework to get data from database in a list26
+209,AngularDifference between controller and serviceInitiate controller vs service  how they differentAdvantage of directivesPromise vs callbackany experience with angular2MVC concept  advantage using it
+210,How MVC worksput vs patchput http verb forpost http verb forpatch  http verb forCORS  how to handle itadvantage and disadvantage with multiple indexes in table
+211,how to do 2way data binding in angularjswhat is the difference between ngmodel and ngbinddifference between promise and callback in JStypes of providers in AngularJShow to do inheritance in JSwhat is closurewhat is isolation scopewhat is the issue with 1
+212,x related to 2 way data bindingwhat is action filters in MVChow to do serialization in WCFdifference between IENumerable and IQuerable
+213,AngularWhat is directiveHow you achieve two way databindingWhat is difference between promise and callbackWhat is the advantage of single page applicationCCan you inheritance multiple classDifference between String and String builder
+214,RedirectMVCHow you achieve routingWeb APIDifference between PUT and POST
+215, Web developer with very strong Asp
+216,net  C SQL 2012 JavaScript Entity Framework WCF and very strong UI development using Bootstrap and AngularJs  Expert Level
+217,It was a Vendor interview on Phone CallWhat is Union and Union All in SQLWhat are join in SQLWhat is Scope in AngularJsDescribe Angular Js ArchitectureHow to Integrate Bootstrap with Angular JsWhich C version youve usedWhat is two way binding in Angular JsIs ASP MVC Is two way bindingWhere to use Http
+218,Get and http
+219,PostHow to connect Database with AngularJsWhat is NGRepeatNgShowNGHide
+220, Have you ever used thisWhat is AJAX
+221,MVCWhat is routing in mvcWhat is in routing tableHow the routing worksWhat is the life cycle of each requestWhat are action filtersHow to secure the site other than the usual loginidpassword wayWhat are difference between tempdata vs viewdataWhat is viewbag how is it different from viewdataIn general why do we use design patternWhat design pattern used in the past experience Briefly explain each and case use it
+222,SQLAdvantage of inline function and store procedure
+223, Why do you use one over anotherWhat is SQL injection How do you prevent itWhat are different joinsIf you have 3 tables 1st one with few hundreds records 2nd one with few thousands records and 3rd one with few millions records
+224,When perform joinsfilter on three tables which way is faster from smallest to largest or largest to smallestWhat is SQL profiler Brief explain past experience using it
+225, What motivated you to move from Webforms to MVCQ2
+226, Why did you use jQuery and AJAXQ3
+227, Which approach did you use for Entity Framework Code first or database firstQ4
+228, Why did you use Angular JSQ5
+229, Have you used Web API Have you used Node JS Which ones betterA
+230, I answered I prefer Node JS because that is what I have worked with on my project so Im more comfortable with it
+231, Have you worked with NoSQL Which database in particularQ8
+232, Would you be comfortable with Angular 2
+233,Round 1Syntax for creating object variable in JavaScript Which tool you have used for version Controlversion you have usedexplain how will you resolve conflict on your pageRound2It was coding roundi had to create MVC application where employee name and department name is to bind todropdown based on that the list of employees had to filter and when we click on employeein employees list the detail of empolyee should be displayed in modal popup
+234,In sql server i had to create 2 table employees and departmentstore proceduresRound 3IT was with Project managerthey asked me question about my resume and explained me about position
+235,Managerhe asked me questions like Why you want to work with GEPWhat are your expectation from your Project manger Qualitites needed in good project manager
+236,1 Web Api pipeline2 Triggers and their types and can we use select statement in triggers3 how angular js commumnicated with web api4 what is 3tier architecture5 Store procedure6 how you implement authentication and authorization in webforms7 how to implement authentication and authorization in angular js using webapi8 How does webforms communicates with database9 How many team members have you worked with10 tell me something you have worked with according to our company requirements11 difference between union and union all12 tell me about angular js project you have worked13 How to improve performance in front end in html if you have 1000 of records14 Fiddler15 Code first approach and data first approach
+237,What are the differences between Web APIWCFWeb ServicesWhat are the differences between HTTP and HTTPSWhat do you expect from HTTP callIf you go into your browser and type in a http link what are the steps it went throughWhats the benefit using AngularJSWhat are the differences betweenASP
+238,NETMVCWhat is the major benefit using MVCWhat is hash tableDifference between hash table and dictionary
+239,Whats the differences between interface and abstractCWhen you writing store procedure what will you use temp table or table variableWhats the difference between UNION and UNION all and which one is faster
+240,Difference between class and object
+241,Why we consider javascript client side languageWhen we enter a site on brower what are the steps usally happenAny tools used before to test http callsWhat does a http call usually returnWhat does AJAX call returnHow you make a AJAX callWhy do we need asynchronous callIn javascript whats the difference between let and var
+242,Whats the difference between promise and callbackUsed any SCSsource control system before what are they use forHow Angular binding workDifference between onewaytwoway binding and ngmodel
+243,NET MVC in controller what is return type for a viewWhat does JSONresult returnWhat is the base class these result derive fromand few more questions I dont remember
+244,What is the difference between interface and abstractEvery single Method declared in an Interface will have to be implemented in the subclass
+245,a class that implements an interface must provide an implementation of all the methods of that interfaceabstract classes may contain state data members andor implementation methodsabstract classes can be inherited without implementing the abstract methods though such a derived class is abstract itselfCan you implement multiple interfacesA class can implement multiple Interfaces
+246,If two interface have the same method signiture can you those interfaces implement in the same classif the return types are the same you can
+247,What is a generic typeIn a generic type or method definitiona type parameters is a placeholder for a specific type that a client specifies when they instantiate a variable of the generic type
+248,What does the T stands for in generic typearbitrary type TWhat is an extention method in LINQ queriesWhat is an ananymous type 
+249,What parameter takes WHERE classhow does this where condition mapped to the collection objectWhat is a delegateDelegates are essentially function pointers but with extra multicast capabilities built in
+250,So you can assign several functions to the same delegateand they will all be called in sequence when the delegate is called
+251,What is an event handlerWhen events occur the application should be able to respond to it and manage it
+252,NET raised at the client machine and handled at the server machine
+253, Web
+254,NET engine http moduls verifies and giv it to the server
+255,On the client
+256,Difference between Web API and WCF
+257,Difference between WCF binding and basic Http binding
+258,Coelsce functionDifferent joinsHow to join two tables on different servers
+259,Defining the database objectWhat reporting tools did you use reporting toolsControl flow in SSRSDynamic sql
+260,How to implement dynamic query
+261,What are nullable typesWhat is a temptablewhat is the difference between unique and primary keyswhat is table variableThere is a query with 20 Joins
+262, How do you solve the problemWhat is an interfaceWhat is a class and module in CHow to pass data between cotrollers and viewsHow to find duplicates in SQLHow do you create modal pop up with JS
+263,You have a DB and pass data from dB to the client through WCF
+264, The data coming from the client side is corrupted
+265,Questions about how to debug front end backendwhat are the html extenders in MVCwhat do you do to learnget familiar with an application
+266,null vs undefined vs  which is fasterRest verbs http requestDescribe two programming paradigms in JSWhat patterns are used in JSDifference between prototypical and classic inheritance in JSDescribe functional programmingPros and Cons between functional programming and OOP in JS
+267,What is asynchrouns programming Why is that importantPros and cons between microservice and model for restful applications
+268,What are optimization strategiesHow do you do unit testing for a function returning Hello World in Jasmine
+269,ArrayArraylistHashtablePerformance differences between these threeSealed classTDDUnit Testing
+270,Struct vs class
+271,Abstract vs interface In common they enforce certain hierarchies for all the sub classes
+272,Which classes are the delegates derived from System
+273,What are partial classes10
+274,How to implement singleton design pattern
+275, design pattern where did you use2
+276,LINQ did you use conventional one or lambda
+277,How do you provide authentication and security in WCFkendogrid performs paging client side or server side what is the specificrequrement in your project to use kendo grid and why you implemented paging which collection is fasterwhy bootstrap even if we can achieve it by css why not CSShow do you return data in xml from databasecross apply and outer apply in sql serverhow do you query xml using linqcan you query html using linqWebApi securitywhen do you generate token and how furthur reuests and responses will use token and how do you consume apis using angularjs and mvcajaxHow do you provide security if i directly call web api from browsermvc actionresult reurn typeshow do you make mvc asynchronous calls other than ajaxajax helpersMVC request life cycleIQueryable vs IEnumerable
+278,How do you provide authentication and security in WCFkendogrid performs paging client side or server side what is the specificrequrement in your project to use kendo grid and why you implemented paging which collection is fasterwhy bootstrap even if we can achieve it by css why not CSShow do you return data in xml from databasecross apply and outer apply in sql serverhow do you query xml using linqcan you query html using linqWebApi securitywhen do you generate token and how furthur reuests and responses will use token and how do you consume apis using angularjs and mvcajaxHow do you provide security if i directly call web api from browsermvc actionresult reurn typeshow do you make mvc asynchronous calls other than ajaxajax helpersMVC request life cycleIQueryable vs IEnumerable
+279,Extension methods And code for that using this keyword and staticPartial classesGeneric collections and methods for stackVar and dynamic keywordAutomatic propertiesreadonly vs constIQueryable vs IEnumerabledefered exeution and immediate executionsome linq queries both query syntax and method syntaxlambda expressionlazy loading and eager loadingrouting in web apiauthentication and authorizationwhat encryption technique you used to store password in databasedata annotationsexception handling and what kind of exception template or error message did you use to handle exceptions in web apihow do you debug webapi using fiddlercontent type in content negotiationDesign patternsbridge pattern
+280,Mostly Project Related questions and on following topics1
+281, Web API2
+282, Features of MVC 55
+283, Features of SQL Server 20146
+284,Screening Interview by client
+285,How to implement data entity modelExplain flow of data using ADO
+286,netHow to optimize your data baseHow did you make connection to your database without using entityHave you ever worked with huge amount of data records and how did you handle it
+287,ready functionsmodel bindershow to handle two submit buttons in one form in mvccode refactoringunit testingWhat was the mistake that you did in your projectwhat did you develop in your project that you can say proudlyRoutings in mvc
+288,Features of MVC that you find most usefulSQL JoinsQueries Types ExamplesPassing data from Controller to controllerDelegatesAngular RoutingAngular DirectivesCustom DirectivesWhat is it Why to use SyntaxMVC FiltersException HandlingSession Management in MVCSession Management in Web Forms Token Based Authentication Contracts in WCF services Fault Contract in WCFHow to use
+289,Describe OOPWhat different between abstract vs interfaceWhat is differencebetween value vs refWhat is the difference between string vs string builderWhat is difference between API and MVCWhat is Protect access modifierWhat is internal access modifierWhat is different between overloading and overridingis it possible to override a static method in derived classHow to you prevent a class from being inheritWhat is CursorWhat is difference between delete and truncatewhat is difference between stored procedure and functionHow do you improve SQL executionDo you know what is execution Plan
+290, difference between hash table and dictionary2
+291,which part of a application do you enjoy coding is it UI or back end
+292,aunthentication and authorization in MVC5
+293,Password encryption in database6
+294,3rd normalization in SQl database design7
+295, what are the unit test frameworks that you are familiar with11
+296,how often do you run the application and unit test12
+297, have gone through the design documents of your fellow developer when he is not around
+298, when does the QA team test your application
+299,SQLWhat is a stored procedureWhy would you use temp dataHow would you check for error in store procedureWhere and when would you use triggerJQueryWhat is Cross Site ScriptingWhat is SQL InjectionWhat have you work with in JQuery
+300,1 He asked me about my Background2Html 5 features3Responsive Web Design4Basic Question about Object Oriented inheritanceobjectEncapsulation5how to make table border curved6token Based Authentication7Action Filters8what is RestFull Application
+301,How would you represent Animal Kingdom in a Class structure Dictionary Vs Generic Lists and Hash tablesPerformance Memory Usage Efficiency etc Features of C that you find most useful
+302, Features of MVC that you find most useful
+303, Testing in MVCWhy How Documentation work for the project Interaction with the testing team
+304,Web Api Web ServicesHow and where in the projectREST vs SOAPWhy MVCWhy AngularSecurity in the project
+305,1 Introduce yourself2 Tell me about latest projectSQL1 Joins and different kinds of joins2 Index and different kinds of index3 stored procedure  where you used it in your project4 triggers5 viewsOther technical questions1 Closure2 Design pattern3 Dependency injectionExplain all the projects you have worked on
+306,Do you face any performance issues in previous projectsSQLHow do increase the performance of a viewIn Jquery How do you select the particular Element from DOMUse of Repository patternWhat are clusterINDEXdifference between Temptable temp variable and ViewCan you call the stored procedure and Userdefined Functions in select statementsDo you ever used third party tools
+307,Description of technologies you usedTriggers on entity frameworkIn Entity Framework what is pluralizedExtension of Entity FrameworkHow do you get store procedure into Entity FrameworkThird Party controls for front EndWhat is RazorHave you worked on Code first approach
+308,Asked some questions based on projects index in SQL clustered nonclustered what is interface difference between reference type and value type difference between data adapter and reader whatwherehow do you use linq design pattern singleton and factory string gt i talked about it and also mention string builderthere are more cant remember them
+309,Introduce yourselfDifference Between Class and StructureHow do you test the store procedurewhat are the triggers you used in your projectsValue type VS Reference typewhy we use LINQwhat is IQueryablenamespace for using IEnumerableDebug a page which is not loading the particular webgrid
+310,What are views and indexes and different types of indexes and how you implemented itHow do you check the checkbox is checked using angularJsHow do you make sure that all the corresponding class objects are loaded in the application if not how do we do that manuallyWhat are triggers for what action in database you used itWhat is cross join  Have you ever implemented Ref an Out objects in CWhat are extension methodsWhat are enumerable types in CWhat are filtersWhat are design patterns and how you used in projectWhat is dependency injectionHow can we retrievemultiple tables from database
+311,ltdiv classtitlegtltpgtISF Applications DevelopmentltpgtltdivgtWhat are the different ways could you make the ISF Applications Development text appear with a yellow background Give as many as you know
+312, Write a function that calculates the sales tax rate in  given the sticker price and actual amount paid
+313, Write a function for validating an email address that meets the following minimum requirements at least 10 characters 1 lowercase letter 1 uppercase letter 1 number and no sequential lowercase letters
+314,net application to MVC 6
+315, How will you improve the performance of the application
+316,How does an angular application work
+317,1What is Type Script2how do you consume rest API in angular3what is scope in angular4how do you manage request in rest API5Explain MVC6Role based securities7explain about your last project
+318, find all element p tags on page which they dont have any classstyling3
+319, Given the following html snippet     96    Normal  0        10   0  2    false  false  false    ENUS  ZHCN  XNONE                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     Style Definitions table
+320,0ptltdiv classtitlegt ltpgtISF Applications DevelopmentltpgtltdivgtWhat are the different ways could you make the ISF ApplicationsDevelopment text appear with a yellow background Give as many as you know
+321,addClass assume we havethe css class yellowClass for the p tag p
+322, ltp class yellowClassgtISF ApplicationsDevelopmentltpgtProblem 2 Write a function that calculates thesales tax rate in  given the sticker price and actual amount paid
+323,By considering the terms in the Fibonacci sequence whose values do notexceed four million write a function that will find the sum of the evenvaluedterms
+324,1Current Project2 Triggers in SQL3OOPS Concept4SSIS Experience5Explain what is SSIS package6Explain what variables in SSIS and what are the types of variables in SSIS7Role based Authentication
+325,Whats exception handlerHow to handle http request How to do custom Routing in MVC or AngularJS
+326, Lock function9
+327, Routing Virtual Routing Routing Manager in MVC11
+328, WCF service create consume deploy
+329,Why cdesign patterns and explanationArchitecturehow did you implement Code first approachdesign paradigmTDDLINQJasminemultithreadingdependency injection
+330,How to add new row into the table using code first approachinterface and abstract classtemp table and temp variableAction filtersException handlingsingleton session management techniques in MVCpartial view and view differencesHTML helpersMVC request flow
+331,Current Project Role Responsibilities and technologies useda
+332,Worked as both front end and back end devb
+333,Used Angular JSCSSHTML5 JavaScript C MVC2
+334,Angular JSa
+335,C MVC LINQSQL Servera
+336,MVC Page life cycleb
+337,LINQ Advantages over Ado
+338,s1 fontkerning noneQuestion 1 Write a function to find the longest common prefix string amongst an array of strings
+339,substring0i                                   return prefix    else     return strs0     Question 2 given trade table how do you retrieve newest versiontblTrade
+340, Implement Abstract class and interface inherit the interface to Abstract class and implement the methodsJavascript4
+341, what is Secured API8
+342, How did you consume the Web Api in Angularjs11
+343, Joins in SQL12
+344,NETMVCa
+345,NETMVClifecycle diff Action result partial view
+346,What are the frameworks you used todo for client side and server side
+347,Interviewer 1Tell me about yourselfWalk me through your recent projectWhat enhancements did you make on this projectWhat was the difficult thing you faced during this projectwhat technology have you learntby yourselfSQLDifferencebtw truncate and delete which makes identity to resetQuestions on indexesIf you have one stored procedure then how do u call other stored procedure while executing ithow to test your stored procedurehow do you get tocount the columns if you donthave a primary key in it but just first nameand second name I told wecan use rank column such as using row_numberwhat is a cross join and where did use itdid you work on getting XML data in sql  I said Inever tried it but given a chance i would like to try it
+348,MVC what version of MVCyou usedwhat is action resulttell me about qualitiesof MVCwhat is dependencyinjectionwhats new in mvc5what design patterns you knowwhat are extensionmethodswhat is routingdiff btw view and a partial view Have you used the partial view in your application and whereCtell me what you know about interfacesInterviewer 2Tell me about yourselfhow good you understand financial terms as it is a financial companywhat table you used in your projecttold me to write a query  we have customertable and another tablehow dou get top 5 values by joining those tableswhat is the default typein joinsalso told me to write a logic on getting profit or lossdepending on my project tablescdifference between value and reference typewhich type is a stringand whywhat is polymorphismInterviewer 3gone through about myselfwhat are html helpersdiffencebetween dataset and datareaderwhat is the difference between webform state management and mvcstate managementgiven a query on sqlcase and what it returnsSELECT ID WHEN NullNull THEN yes  FROM EMPLOYEEMy answer I identify as isNULL which was correctAnother querySelect DEPARTMENT sumSALARY Total_Salary from employee group by DEPARTMENT having sumSALARY gt800000My answer we should give group by DepartmentHave you worked on query optimizationHave you worked on support calls ssrsIf you are alone in the office who do u approach first if you get any support call
+349,Interviewer 1Tell me about yourselfWalk me through your recent projectWhat enhancements did you make on this projectWhat was the difficult thing you faced during this projectwhat technology have you learntby yourselfSQLDifferencebtw truncate and delete which makes identity to resetQuestions on indexesIf you have one stored procedure then how do u call other stored procedure while executing ithow to test your stored procedurehow do you get tocount the columns if you donthave a primary key in it but just first nameand second name I told wecan use rank column such as using row_numberwhat is a cross join and where did use itdid you work on getting XML data in sql  I said Inever tried it but given a chance i would like to try it
+350,MVC what version of MVCyou usedwhat is action resulttell me about qualitiesof MVCwhat is dependencyinjectionwhats new in mvc5what design patterns you knowwhat are extensionmethodswhat is routingdiff btw view and a partial view Have you used the partial view in your application and whereCtell me what you know about interfacesInterviewer 2Tell me about yourselfhow good you understand financial terms as it is a financial companywhat table you used in your projecttold me to write a query  we have customertable and another tablehow dou get top 5 values by joining those tableswhat is the default typein joinsalso told me to write a logic on getting profit or lossdepending on my project tablescdifference between value and reference typewhich type is a stringand whywhat is polymorphismInterviewer 3gone through about myselfwhat are html helpersdiffencebetween dataset and datareaderwhat is the difference between webform state management and mvcstate managementgiven a query on sqlcase and what it returnsSELECT ID WHEN NullNull THEN yes  FROM EMPLOYEEMy answer I identify as isNULL which was correctAnother querySelect DEPARTMENT sumSALARY Total_Salary from employee group by DEPARTMENT having sumSALARY gt800000My answer we should give group by DepartmentHave you worked on query optimizationHave you worked on support calls ssrsIf you are alone in the office who do u approach first if you get any support call
+351,Describe the similarities and differences between an abstract class and an interfaceWhat collection can be used to store elements of different typesHow to design the Node type of any complex data structureHow to determine the type of an unknown object at run timeGiven a table named Employee and the following table schemaEmpId EmpName Month BonusWrite a query that returns those employees who received a bonus in June onlyWhat happens when a Valuetyped object is passed as argument to a method What when it is a ReferenceTypeSay that you have a database query that runs smoothly
+352, Then the next day the same query is running very slow
+353, What problem in the database could this be an indication of
+354,What is WebAPIwhat is const and readonly in cAgile Scrumrole of modules in angular2databinding in angular2what is variables access modifier by default in typescriptdependency injection in angular2unit testing in angular2how to test backend api using angular2
+355,They started asking me about my recent project why angularjs framework for testing dependency injection framework for dependency injection what are features of restful services what are rest principles why entity framework pros and cons how i was interacting with the team tool used for the same what would be your first approach when you hear any issue what was the biggest challenge faced during previous project stored procedure with entity framework what are triggers what framework used for logging why and what services used in angularjs
+356,Tell me about yourselfsql what are triggers diff btwn truncate and delete scenario based diff btwn function and stored procedure
+357,what is delegate dependency injection multicast delegate how to implement token based security why entity framework how do you make a function asynchronous diff btwnasync and await keywords why restapiwhy angularjsGiven two sqlqueries to write
+358,Shown a function and asked to make it asynchronous
+359,introduce yourselfrecent project how big was the team how you use to coordinate with each other what tool usedhow did you learn angularjswhy angularjstesting framework usedwhat is dependency injectionwhat is restful servicesdiff between readonlyand const variableswhat is heapwhat is garbage collectorhow garbage collector workshow do you implement garbage collector externallyhow dependency injection works in angularjs how do you call itdid you participate in codepeer reviews
+360,how big is your teamwhat is the velocity of your teamare you comfortable in working frontend or fullstackwhywhat are the challenges you faced in your projectHow you solve themwhat kind of difference you found in Indian work environment and in USdetails of the recent projectis your recent project livecan we access your recent applicationhow will you improve efficiency in your projectwhat is your day to day activity Any difficulties
+361,Diff between managed and unmanaged codeDiff between class and objectDiff between stack and heapWhat is 
+362,Net Frameworkwhat is inheritance and advantagesWhat is Bootstrap in AngularJSWhat is ASP
+363, How did you achieve itwhat are components in angular 2 how did you write a REST Api 
+364, what is RESTwhat is Object oriented Design in Javascript what is interface Abstract classhow did you create objects in javascriptwhat is javascript hoistingTell me about your NodeJS experienceWhat kind of Mongodb queries you have usedWhat middleware you used on expressjs
+365,why are the advantages of AngularJSwhat is the difference between ClientSide and Serverside Technologieswhat is routing in AngularjsHow did you use the Routing to develop SIngle Page ApplicationsWhat is databinding in angularjs what is digest CycleModules and components in angular2services in angular2Eventbinding and property binding in angular2MVC Partial view  Layout
+366,How does routing works in MVCwhy do we need golbal
+367,asaxwhat is bundling and minififcationdifference between ViewResult and ActionResultJquery  Ajax callswhy do we use each in jquerywhat is use of documnt
+368,Netwhat are DelegatesHow did you use CallBack function in Delegateswhat is Execute Scalar and Execute NonQuerydifference between Truncate and Deleteunion vs UnionAllQuery on MAX functionQuery on self JoinDifference between Stroed Procedure and User defined Function
+369,How do you secure your WCF Servicedeploying from webserver  application server Configuration in securitycode reviewsAny static analyser toolsany tools used for code reviewswhat is the technique that makes Single Page Applications work
+370,Here is the solution that I came up withclass Program      static void Mainstring args          int input  new int  1 2 3 2 5       int output  new int5      int counter  0      for int i  0 i lt input
+371,3 what are the different ways to render pages
+372,Differenec between Stored Procedure and FunctionsDataset vs DataReaderwhen will you use stored procedure to write sql select querieswhat is connection pooling How it workswhat is Reflectionwhat is MVC PatternREST vs SOAPExplain MVC PatternWhat is use of Global
+373,1 Two coding questions sql server which involves update and group by clauses and other aggregated functions
+374,How did you return multiple objects from a methodwhat is difference between angularjs and jquery in Perfomancewhat is inheritancewhen do you use stored proceduresScenario based questions on SQL querieswhat are optional parametersUser controls scenario based questions
+375, given an input array like 3 1 3 1 4 2 create a function to output like this 3 1 2 1 3 42
+376, SQL Whats the difference between trigger and stored procedure
+377, AngularJS difference between watch apply and digest what is the difference between service and provider
+378, MVC What is the order of ActionFilters and how many types of ActionFilter5
+379, lock keyword and lock in entity framework
+380, httpwww
+381,comv1oraclegeuserIs this url follow the RESTful service rules
+382, MVCC2
+383, How can you avoid a method overriding in derived class5
+384, MVC life cycle6
+385, AngularjsDirective to validate  in text inputscope and rootscopeComponent   D
+386, SQLPrimary key and unique keyWhat is Stored Procedures   E
+387,Interviewed on technologies  Angular JS Angular 2 ASP
+388,NET Web API Entity FrameworkWhat is the difference between Web Application and SPAWhat is Routing in angular JS How do we define routesIn SPA when we click on a link then is a server request being madehave you worked with code analysis tools like refactorhave you worked with nunitscope vs rootscopeWhat is an MVC patternwhat are the different types of routingWhat is dependency injectionWhat are generics
+389,Reverse First K elements of QueueInput  Q  10 20 30 40 50 60 70 80 90 100k  5Output  Q  50 40 30 20 10 60 70 80 90 100CMVC1
+390,MVC life cycle
+391,AngularjsDirective to validate  in text inputscopewatch digestSQLGet the student the details who obtained 2nd highest Marks
+392,recent project  day to day activitiesArchitecture of recent projectAngular2viewChildHow do you make WEB API calls in angular2input output in angular2Difference bw AngularJs vs Angular2How do you return XML data in ASP
+393,NET Web APIHow do you use AngularJs in ASP
+394,NET MVCFilters in ASP
+395,NET WEB APICan we use httppost to delete recordCustom filters custom authentication filtersHow do you update multiple records using ADO
+396,NET with out using any loopsdata tables
+397,Stored Procedure vs functionInteger arrays Input1 and Input2 return the maximum length of an subarray that appears in both arrays
+398,Dont use any builtin methods  functionsUse minimum space complexityInputInput1 3241242117Input2 14211Output 4
+399, About recent Project2
+400, Angular Directives3
+401, Angular Controllers4
+402, MVC State Management5
+403, MVC TempData ViewData6
+404, Advantages of MVC7
+405, What is the function to wrap up page content in bootstrap8
+406,what is the function to highlight data in bootstrap
+407,How did you provide security in your projectJavaScript this vs c this variablevar vs let differenceswhat are promises Promises vs Callbackshow did you protect your api from unauthorized accesswhat are ClosuresWebAPI vs MVCAction FIlters in MVCError handling in MVCwhat are Data AnnotationsTypes of Action ResultsApllication ErrorAreas in MVCStored Procedure vs Functionswhat is Partition ByQueries to find 2nd top most salaryQuery to find duplicate idshow did you handle exceptions in productionwhat will you do if any page has high response time while in production How will you approach
+408,Face to Face round with ClientClient  FIS GlobalSince the client is a financial company they were more focused on multithreading for large volume transaction processing and security
+409,They asked questions on FIX Angular 2 how to secure the application  something related with JWT Multithreading C advance levellock multiple thread communication deadlocks and synchronization etc How to secure a web API so that anon user cannot see the response from web api Deploying on IAS Memory Profiling
+410,Difference between AngularJS vs Angular2How would you resolve Component Reference ErrorHow did you do Angular Builddifference between a component and a directiveCommunication between ComponentsPropagate from one parent to multiple child components in Angular2can you do circular reference of modulesHow will you call apis from Angular2 How will you create error component for whole applicationhow did you protect your routesWhat is extension method in cOverriding and overloading in cDependency Injection Cwhy did you using in cWhat are Http GetPostPutDeleteInnerJoinOuterJoinLeft Outer Joinwrite a query to find the least cost item in a tablewhat if a query is working slow how would you resolve itif two users are updating a single row at a time how would you notify one user that the other user is updating it
+411,what is the architecture you used in your projectDependency injection in c where did you used itExplain the lifecycle of MVC vs Webforms appshave you used handlers where exactly they come in a asp
+412,net web application
+413,net vs fault exceptiontempdata vs viewbaghandle errors in mvcAction filters in MVCwhere did you use them any custom filtersRazor vs ASPX engineXML data through action to db response time is higher how did you solve itAction result vs view result  types of viewresultvalidations in mvcDesign patterns in mvc respository singletonbind data from view to modelroute attributes in mvcunit testing in mvc what kind of tools usedhave you used automapperwhat is jquery unobtrusivecall action from view in mvcbundling and minification cachewhat is view state is it encrypted where is it storedviewstate vs sessionsin proc vs outproc sessionslifecycle of asp
+414,net application from iisvar vs dynamicextension methodsdelegates what kind of delegates you usedinheritanceoverriding vs overloadingvar in javascript dynamic typed or compile time typedtype of var based on given valuesIenumerable vs Ienumeratorjoin in linqvarious types of joins questions on joinsquery to delete duplicate values if there is no primary key and identity columnfunctions typesWhat is WSDLWhat is AAddress Bbinding CContractcan we have multiple address multiple binding and one endpointquestions varying on multiple and single endpointsaddressesbindingswhat is service contract message contractcan we have two contracts through one endpointhow did you generate proxy classesEnable cors in webapireturn result in webapiwhat are http status codes meantlike 400500200404204502etc
+415,What is the HTML tag for a popup windowWhat is a flexboxWhat is JS method to stop execution and debug codeHow was the code review process in the team you worked inHow did you implement your unit testsDid you strictly adhere to unit testingHow was the code development process like in your teamWhat is a closureWhat is the use of the let keyword in JSName a good example of closure usage in web application developmentWhat is the difference between a closure accessing data outside the function scope and a normal function accessing data outside of its scopeWhy are you changing jobs right nowHow do you access two collections in a MongoDB database without using callbacks Use promise
+416,Name and describe specific RESTful APIs you built in your projects
+417, It must be importable in another JS module using the require keyword
+418,Describe a complex feature that you implemented from front end to backendDescribe a situation when there was a conflict of ideas in your team
+419,What is the difference functions and proceduresWhat is the difference between single promise and obserblesWhat is the difference between overloading and overrdingWhat are sealed classes in C sharpHave you used filters in angularJS
+420,net MVC filtersWhat is asp
+421,net MVC web cycleWhat is asp
+422,net web api and web serviceWhat is the difference between partial view and user controlWhat are action filtersWHat is data validation in asp
+423,Try to debug an angularJS application
+424,Basically data is not updating at the page
+425,What is a directive in Angularthey are designed to extend the html
+426,How to secure a web apiUse tokens
+427,In angular what is a promiseIt makes functions asynchronous
+428,What is the difference between TempData ViewData ViewBagData Adapter Data Reader Data Table and Dataset WHat is the difference between index cluster vs nonclusterWhy choose AngularJSWhat is the difference between interface and abtract
+429,Nullable Types in CTalk about projects and backgroundWhat is encapsulation in CWhat are pointers in CWhat is the difference between dynamic and objects in C sharpWHat is boxing and unboxingHow do you pass a value in charp in different waysWhat is early binding in CWhat is a value type in CHow do you sort an array and what is the quickest way to do itWhat is two way binding in AngularJS
+430,Ask things on resumeWhat is view StateWhat is the difference between Cache and SessionsWrite SQL statementsWhat is the security for angular 2 applicationWhat did you use triggers for
+431, But other programming languages are also acceptable
+432,js files into one moduleWhat is an API and how does it workWhat is SPAHow can you use SPAExplain routing
+433,Do you know what is a Partial ViewExplain Partial ViewSecond interviewCollectionsWhat its MVCMaximum number of records into a temp Table SQLInterfaceDelegatesPolymorphismSeparation of concernsSOLID principleWhat is Sigle Responsibility Principle
+434,Can you have two ltheadergts tag in html2
+435, what does ltrouteroutletgt do can you have two ltrouteroutletgt in html4
+436, How to check garbage urls and return 404page
+437,How to design front page
+438,WCFDifference between ListArraylistWhich one is GenericampNoneGenericNullable types CIf you have view based on 2 tables which one will be updated firstTriggersValidations MVCCache Web Forms
+439,Angular Js         gt What is controller promise Scope RootScope Services Databindingone way or Two way how to do that ValidationAngular 2         gt Services dependency injection Observablesubscribe Directive Databindingone way or Two way how to do that routing ngIf Ng       showValidationstructural directivesWebapi        gt Get Put Post Delete method Authentication Return type action result Ihttpresponsemessage allMVC       gt MVC architecture How to transfer data between controller or view Tempdata Viewbag ViewData Validation Authentication FormWindowsand passport   what is passport authenticationC     gt Abstract class Interface Oop concept Extension Method Delegate how to use and why we use Boxing and Unboxing Ref and Out parameter ref and value parameter Constant and read only Webconfig how many Webconfigcreated in project DisposeSql     gt Primary key FK CTE Trigger PerformanceOther    gt How to improve the performance in front end and back end    gt Project management tool git or gitlab or tfs    gt How many team member in team                        gt Did you face anytoughest task
+440,NetWhat is GACSQLDifference between stored procedure and user defined functionExplain the SQL query for returning highest salary from employee tableExplain the SQL query for returning the second highest salary from employee tableOtherTell me about your current projectWhat got you into codingHow do you keep up with new technologyWhat was the latest project you did on your own time
+441,MVC QuestionsExplain ViewBag and ViewData
+442,NETExplain system exception and application exceptions
+443,NET framework
+444,MVC1
+445, Routing pattern5
+446, WCF vs Web APISQL1
+447, Grant in SQL3
+448, SQL Optimization
+449,What is Dependency Injection How did you use it in your ProjectWhat is AuthGuard  CanActiveDeActive How did you use it in your ProjectWhat are the observables and Rxjs libraryWhy did you use two ApisHow did you test in PostmanWhat is the Router How did you use itWhat is Lazy Loading is it Automated
+450, Angular What is closure2
+451, SQL Whats the difference between a function and a stored procedure3
+452, SQLHow many rows will there be if the two tables are leftjoinedHow many rows will there be if the two tables are rightjoinedHow many rows will there be if the two tables are innerjoined4
+453, MVC How to you connect to the database with or without Entity Framework5
+454, SQL With SQL server what would you do when there is a change of columns in the database6
+455, JavaScript If I make five timeconsuming database callsat the same time how does JavaScript process these calls7
+456, Angular What is Promise Whats the difference between Promise and Observable8
+457, Angular What do you use CLI for10
+458, Angular Whats the difference between a component and a directive Where did you use a directive How do you use it11
+459, What is a REST API13
+460, How do you enable web security in Web API15
+461, Angular uses TypeScript
+462, How do you deploy an Angular application You need to create an executable application
+463, Angular uses TypeScript
+464, What happens when you deploy an application18
+465, Whats the difference between a webform and an html form2
+466,Angular1
+467, ways to optimize angular web application4
+468, How can you only create one instance of Service through the whole application13
+469, some practices to secure an Angular Application14

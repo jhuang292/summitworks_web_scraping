@@ -1,205 +1,205 @@
-0
-Client CapitalOneTheseQuestions are Wipro Interview Questions
-How client can access Web services
-What is OOPSHow you implemented oops in your projectWhat is multiple inheritance in javaWhat is exceptionErrorWhat is Thread multi threading lifecycle of threadDifference between process and threadWhat is collectionDifference between Arraylist and VectorWhat is LinklistQueueStackDifference between HashTable HashMap Concurrent HashMap
-What is MVCHow you implemented MVC in your projectWhat is DAO patternWhat is HibernateWhat is POJOLife cycle of BeansWhat is persistence transientdetachedDescribe the contents of configuration file
-Can we have separate mapping file for every moduleWhat is springWhat is DIWhat is AOPWhat is JoinpointWhat is adviceWhat isAngular JS bindingHow to upload files using angular JSHow many controller u can have in one fileWhat is Agile and ScrumHow do u use SVN or GITWhat isOracle trigger function stored procedureWhat is innerouterLeftRightFullJoinWhatProject management tools you usedJira
-What are the fundamentals of OOPsWhat is InheritanceHow to extend ClassesWhat are the excess modifiers in JavaRole of Public Private and protected with exampleWhat is PolymorphismGive an Example ofPolymorphism from your projectWhat is Aspect Oriented ProgrammingWhat is Spring IOCHow you used DI in your projectSpring and Hibernate configurationDifference between Html 5 and HtmlDifference between CSS 3 and CSSUser Validation using JavaScriptWhat is the role of windows
-alertJQuery SelectorsThe interviewer gave situation for the alignment of data using CSSWhy you have used Angular JS along with JavaScript in your Project
-What are fundamentals of OOPS ConceptDifference between List and Set Provided a Scenario of Object creation using Set and ListWhat is Spring IOC And how we used Dependency Injection inour ProjectAdvantage of using Spring IOC with regard to your ProjectWhat are SOAP based Web servicesHow we can publish Web services How client can access Web services
-What is Inheritance How the concept of inheritance used in your projectWhat is NullPointerException Is it Checked Unchecked or Run time exceptionWhat is the difference between list and setWhy we should use Map in Collection frameworkWhat is Hibernate Configuration fileWhat is Spring MVCWhat is the architecture of Spring MVC applicationHow you have implemented Spring IOCHave you worked on EJBWhat are Restful Web ServicesHow you Publish Web ServicesHow did you used Java messaging Service in your ProjectIn Spring what is Bean ScopeHow Data binding is performed in Angular JSWhat are the Angular JS filters you have used in your project
-Difference between comparable and comparatorDid you implement security in web servicesExplain 3 ways of security in web servicesWhat is static variable and how is it different from othersDifference between synchronized and volatile
-what is spring iochow may spring ioc containers are therewhat is target objectExplain your roles in your recent projectExplain me spring MVC
-How would you make a REST Web ServiceWhat were you personally responsible for on each of yourprojectsExplain to me one of the implementations you createdarecreating on your current project and walk me through
-Have you used jQuery Have you had front end technologiesWhat kind of implementations did you create with jQuery andJavaScriptWhat is Spring MVC Explain Spring MVC to me
- What makesSpring MVC Spring MVCAnother guy asked me theseHave you done anything with MulesoftIf you have what have you done with itWhat are two things you typically do whenever you begin a new contract with a client
-What is Inheritancewhat is the difference between Array List and Linked ListWhat is the difference between List Set and MapWhat types of design pattern you have worked on Difference between thenwhat is the bean life cycleWhat is the benefit of using Dependency InjectionWhat types of Dependency injection used in projectsWhat is Spring MVC architectureHow to implement Annotation based configuration in springHow to integrate Spring with Hibernatewhat is TDDWhat is TDD cycleWhat is JunitHow to perform debuggingHave you involved in Scrum meetingWhat is Agile development methodologyHow JIRA worksWhat types of tasks are created in JIRAWhat is the key requirement of team workStrutsHow to improve performance of database such as OracleHow to perform Validation using JavaScriptHow you used JSON in JavaScriptWhat are JavaScript ScopesHow to create Restful webservicesHow to puclish Restful WebservicesDifference between SOAP and Restful Webservices
-What are immutable objectsWhat is the purpose of Garbage collectorWhat is NullpointerExceptionWhat is the difference between Hashmap and HashtableGive an example hashtable from your projectWhat is Spring IOCWhat is Spring AOPGive few example of Aspect oriented programming termsWhat is beans life cycleWhat are SOAP based WebservicesWhat are the limitation in SOAP webservicesHave you worked on StrutsWhat are design patterns in javaHow to perform LoggingWhat are fetching techniques in HibernateHow to perform integration between spring and Hibernate
-What are references in JavaWhat are types of Collection Framework in javaWhat is Immutable objectWhat the key difference between Soap and Restful Web servicesHow to Create Soap based webservicesWhat are the design patternWhat is the default bean scopeHow to improve Database performanceDifference between Stored procedures and functions
-What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
-What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
-What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
-Which HTTP method is nonidempotentWhy do we have servlet listenersHow to handle exceptions thrown by application with another servletWhat is exception and errorName few Checked and unchecked exceptionHow to create threadsHow jvm manages memorey
-How do we go with database connection and log4j integration in servletHow to get the IP address of client in servletWhat are important features of List and arraylist stack vector
-What is main method in Java How to sort ArrayList in java What is difference between wait and sleep in JavaDifference between List and Set in JavaWhat is dependency InjectionAre Spring singleton beans are threadsafe What is AOPHow Advices worksWhat is Spring SecurityWhat is view Resolver pattern Explain Spring MVC flow with a simple example
-Difference between ngbind and ngmodelName of first controller in Spring MVCHow to implement inheritance in javascriptoutput of 123what is isolation of scope in angularwhat are providers in angularDo we need to make restful web services as threadsafe if there are multiple threads trying to access itDifference between executor
-problems and challenges in the project
-Explain angular MVC
-How to switch database configuration files in hibernate
- In which part of MVC it comes under
-IF you write snippets in jsp will it not be decoupling of codeTypes of calls in angular
-How do you validate without submitting the pageDifference bw type of calls in angular
-Did you work as senior java developer and can you guide people under you in project
-Difference between Angular JS and JqueryWhat is OOPSHow to create custom exception
-What is use of autowired annotationType of spring annotationDifference between checked and unchecked exceptionWhat is Multiple inheritanceWhat is Scurm and agile methodogyWhat are wrapper classes
-Difference between stored procedure and functionWhat is cursor and indexHow to do normalizationWhat are concepts of OOPSWhat is difference between rest  SoapDifference between set and listWhat is Hashmap HashSet HashTableWhat is threading and how thread communicateHow to resolve dead lockWhat is Date and time apiWhat is ENUMHow many type of configuaration in springWhat is context annotation configwhat is Bean annotation
-gt What is the Difference between Hashmap and Hashtable gt What is Serialization  and why do we use and how to code it gt What is encapsulation and abstraction gt What is checkin and checkout in svngtwhat are the different application sever you have worked so fargt How do you deploy project on application server gt The difference between Jar  War  Ear gt What are the different types of EJB beansgt When to use Session Beans and Entity Beans gt Why do we use AngularJs gt What is ngapp directive gt How does AngularJs integrateconnect with html gt What is Model ViewgtWhat is data binding in Angular why we use itgtDifference between service and factory in angulargt Have you created Stored Proceduresgt What are Views gt What is the purposeadvantages of using views gt What are indexing used for gt Clustered and non clustered indexgtgt What is Spring  Why do we use Springgt What is BeanFactorygt What is the difference between BeanFactory and ApplicationContext gt What kinds of Dependency injection are there gt What is the process of using Dependency Injection and then of using Setter Injection Codinggt What is the difference between injecting by Name or by Type gt Describe the MVC Architecturegt What is AOP gt what is the difference between joinpoint and pointcuts gt What is an Advice and its types gt What are Web Services and why do we use them gt What are the types of Web Services gt What is the difference between SOAP and RESTFUL gt How do we decide when to use SOAP and RESTFUL gt What are some of the TECHNICAL challenges you faced in your developer careergt
-1 What is HQL 2 In your hibernate application how do you verify the data after making a request 3 What does the method beginTransaction do 4 Let say your Project Manager tell you that your database requests are consume a lot of memory you need to do something to improve the performance
- How would you do it in hibernate 5 How is the bridging established between your hibernate application and your database 6 What is SessionFactory 7 What are the different types of webservices8 What are the differences between SOAP and Restful WebServices 9 Can we send SOAP messages in a JSON format 10 How do you implement method overloading in your Webservices 11  How do you test your WebServices 12 How do you deploy your Webservices 13 In Exception Handling can we use try without catch If no why if yes how 14 If I have a try block associated with 3 catch blocks  finally block
- If the first catch block catches an exception will the two other catch and finally be executed15 Why finally block is always executed 16 Why multiple inheritance is not allowed in java17 What is overloading and overriding18 What are the different types of join in oracle  what are their differences 19 How do you improve performance in your requests
-What are the core classes in hibernate
-Explain the spring MVC architectureWhat are some commonly used spring MVC annotations
-Types of controller classes in spring
-Have you participated in code reviews what did you do what are best practices
-Explain Spring MVCHow can you return a String in a controller Answer use ResponseBody annotationExplain an example when you used Hibernate to set user roles Answer One table to hold users one table to hold user roles the user roles table had a foreign key pointing to the primary key in the Users table
- Explain more in detail using Hibernate to set user roles and the relationships they had Answer Inside the User class you had a Hashset storing User Roles with a One To Many Relationship annotating the set User roles method
- Inside the UserRoles class you have a reference to the user as well as ManyToOne annotation on the set User method
- For more information on how to answer this question please see this link and take a look at the model classeshttpwww
-What is a directive What do you do in a directive in AngularJS Answer DOM manipulation is done in directive  for more information read Angular documentation on directives it is very well written and easy to understand
-Explain how to use and consume various SOAP and RESTful web services know the tags inside a WSDL file
- Tags are porttype type binding and messageWhat is a directive in AngularJS Marker on DOM element read documentation on directives for more infoHow do you access database in AngularJS Use service with httpWhat is a memory leak in java It is when an object is not in use any longer but not picked up by the garbage collector
- What will happen when user hits the homebrowser3
- MVC architecture Various modules of spring4
- What Framework did you use for webservicesindirect way he asked11
-what method did you use in http16
- how http request worksSomething like that asked indirectly
-Explain the architecture of your last projectHow do you apply synchronization in java Synchronized block or methodWhat is dependency injectionWhat are the different scopes in spring which one is default Singleton Prototype Session Application  Singleton is defaultWhat are the 7 modules of springWhere can you apply and advise
-What is significance of string pool How u create iteg what is hash code and can we give one hashcode for 2 objectshow u used rest n soap web services in prjct he asked something about arraylist to write one line of code
-dont remember what was the question what u used to implement soap web services
-Dependency injection How it is achieved in Angular js6
-x and Angular 27
- Candidate with eng skills in HBase Java Python and knows how to query applications and systems for logs
-Why do we autowire the interface amp not the implemented class7
- Different annotations in spring MVC
-PythonDescriptionCandidates must be proficient in Django Oracle database and have strong experience developing in a Linux environment
- Tell me about your project
-4 Is string a primitive datatype5
-can the main method be private9
-can we access a private member of one class in different class if they are in same package10
- can we declare two method with same name11
-what happens if the method throws an exception that was not specified in method declaration12
-can we have static method in an interface13
- what are immutable classes in java19
-Exception handling with method overloading21
- Hibernate core java pl sql
- Different types of Dependency Injection which one did you use Write a code for that
- JPA how did you use hibernate in your project
- write a sample code
- what is overloading and overridingwrite a code
- write a update query in PLSQL code
- what is group by can you use two columns to group by write a code
- can we do method overloading from the same class what is the use of method overloading8
-write a code for inheritance10
-what is aggregationBasically was asked to write a code for all the questions
-PythonConvert this list of strings into an sequence of type numbers  123
-34Filter Reduce MapDatabase Migrations in DjangoList vs TupleImmutable vs mutable data typeHow to integrate AWS
-what angularJSWhat is promisewhat is ngBind anf ngmodelwhat are object in javascriptWhat is prototypewhat is closure
-how to over ride equal method5
- what is the best approach to write a multiple records from excel sheet in to the database
- hashcode and equals methos13
- write a code to iterate though the hashset
- how to debug a service
-Tell about yourselfArchitecture of projectHow did you create UI layer for projectwhat is two way binding and onebinding and how do you achieve in angularJSFlow of data from backend to front end in angular2How did you test you angular applicationwhat is SPA in AngularJS
-1 What are Promises in AngularJS2 Where did you use promises3 Dependency Injection in AngularJS4Explain Digest Cycle5Scope in angularJS6How to share data between controllers in AngularJS6rootScope scope8broadcastemiton9ngif ngshow10routing
-1 How did you handle performance problems in your project2write a code for the function which returns numbers between 1 to 100 not divisible by 53What are Restfulwebservices Annotations used etc4Design patterns used5Where did you use singleton design pattern
- tell the code6Diff ways of DI in spring what is the best way7promises in angularjs8form control vs ngmodel9How do you debug when a button of a form doesnt submit10debugging tools used in angularjs11how to create immutable class in java 12abstract class vs interface13Java 8 new faetures14when is multi threading not a good idea15race condition in multithreading16synchronization in multithreading17have you used trylock18what happens if two different keys have same hashcode19restController vscontroller20how to improve performance of query in oracle
-Tell me about you projectWhat is shadow DOM in angular 2How child component communicate with parent componentHow to provide routing in Angular 2what is childviewHow to deploy you angular 2 Appwhat is lazyloading Difference between Promise and ObservableVarious binding in Angular Explain
-Tell me about your projectAsk about technology stack used for previous projectswhat is first thing that you do if respond time for application is more in J2EE How did you consume rest web service
- what did you do in your last project
- Did you work on JMS Jquery and JSP Servlet4
- Web services SOAP or REST5
- How to you call a restfull web services6
- How will you transfer data through a restfull web services8
- Spring MVC life cycle
- Database experience in Plsql19
- Did you participate in code review26
- Did you participate in creating user stories30
- How would you approach a user stories31
- Who gave you user stories33
- Did you review others code34
- how did you test your code if there is no front end38
- Did you do testing on your code40
-How u implement serializationWhat are the methods inside serializableinterface we need to overrideit dosent have any methodsexternalizationsynchronizationif I want share data between two threads to bethread safe and not use synchronizationbecause of performance issuehash map how internal work itgenericsbounded and unbounded wildcards differentcan I access non static variable from staticcontextcallable interface runable best way to impl thread how many options we havedifferent betw set listsort list in order by salary etccompare and comparablemodels in spring u usescope in spring beansone class two beandifr id definition how manyobj createddiffr singleton java and springInjecting prototype bean insingleton bean in SpringImportant components I spring JDBCWhere u use AOPConstructor and setter injection How u do integration hibernate in springHibernate dialectSecurityfor web services how u implement itAdvantages of web servicesWitch u recommend to use and whyWhat is platform independentYour front end technologiesWhat is one way and two way bindingData flowsfrom the scopecontroller to the viewWhat is default bindingHow we do one way bindingDiff betw scope and root scopeDiff betwservices and factoryTell me some directivesWhat services u use in your appWhat db u useDate functions in dbDiff union union allUNIONremovesduplicate recordsI have a table I want to del duplicate data exof querySystem give u a lot of data it go very fast uhave to process the data and insert in one dbvery big data make it fast androbustRemove duplicate from stringDesign patterns which u useDiff betw factory and abstract patternfactorymethod is a single method and an abstract factory is an object
-1Introduce yourself2Explain about your project3Explain the module you have been working4How big was your data
- How many records did youreceive5Where you directly involved with the clients6Have you faced any performance issues in yourproject What was it7How big was your team On what modules did eachof them work on8What was the database you used9What are triggers1  What are indexes in database1 What is difference between angular js andangular 212 Drawbacks of angular 213Autowired annotation usage14 Features of java 815 Design patterns used in your project16 What is agile methodology
-1Talk about the recent projects you worked on and on therecent technologies2what kind of design patterns did u use3 how have u used DAO pattern in your project How does itwork4what is Dependency injection How did u use dependencyinjection in your project5what are some ways you can achieve dependency injection6 What is Factory design pattern7We have class A and Class B
- we need to inject an instanceof class b into class A
-10 What all scopes have u used in your project11Where do you use prototype scope12what are restful web services What are the dataoperations you performed using Rest13What is the difference between POST AND PUT methods14Difference between Angular js And angular 215We have an angular component and a service how do youinject a service to an angular component16Talk about hibernate How do you use it Where do you use17How do you the mapping in hibernate 18Other than the xml file how do you do the mapping19Lazy Loading20We have a customer table and a contact table
-o Whatis the difference between default and static methodso Caninterfaces have private methods Whyo Whatis valid annotation used for o Explaindefault access modifiero Differencebetween StringBuilder and StringBuffero Whatmocking framework did you use o Whatis the difference between process and threadWhat is future annotation
-What are webservices What is restWhat is the difference between applicationserver and web serverDifference between interface and abstract classGive practical exampleWhat is a stored procedureHow did you authenticate your application
- Didyou use any SSlWhat are micro servicesDifference between angular js and angular 2
-ØCan you talk about the company with which yourecently worked withØWhat is normalizationØWhich methodology did you work in Explain it is a free and open source static code analysis tool used insoftware development for checking whether Java code conforms to the codingconventions you have established
-is a static code analysis tool that iscapable to automatically detect a wide range of potential bugs and unsafe ornonoptimized code
-is an open sourceJava code quality tool similar in some ways to Checkstyle and PMD but with aquite different focus
-In fact it concentrates on detecting potentialbugs and performance issues and does a very good job of detecting a variety ofmany types of common hardtofind coding mistakes including threadsynchronization problems null pointer dereferences infinite recursive loopsmisuse of API methods etc
- FindBugs operates on Java bytecode rather thansource code
-1Talk about the recent projects you worked on and on therecent technologies2what kind of design patterns did u use3 how have u used DAO pattern in your project How does itwork4what is Dependency injection How did u use dependencyinjection in your project5what are some ways you can achieve dependency injection6 What is Factory design pattern7We have class A and Class B
- we need to inject an instanceof class b into class A
-10 What all scopes have u used in your project11Where do you use prototype scope12what are restful web services What are the dataoperations you performed using Rest13What is the difference between POST AND PUT methods14Difference between Angular js And angular 215We have an angular component and a service how do youinject a service to an angular component16Talk about hibernate How do you use it Where do you use17How do you the mapping in hibernate 18Other than the xml file how do you do the mapping19Lazy Loading20We have a customer table and a contact table
-Explain me about the project
- What are your rolesDid you make any modifications in your DAO class
-What are the differences between AngularJS and angular2 and angular 4
-Configuration of RESTful web services
-Tell me about your projectWhat are your roles what did u do in your projectWhat are Generics with Example where did u use them
-What are collectionsAbout Maps custom and inbuilt methodsHow to find unique keys in mapsIs it the same method for other collections franeworks alsoHow to make a singeleton MapWhat are immutable classes
-Write code for immutable classesHow to send data from properties file to a classSpring MVCHow to configure spring beansWhat is hibernateHow to map an Employee class with the dataHow to generate emp id in emp class using hibernateDo u do it in your class or in oracleHow to manage transactions in hibernateYou have a record in database and what will u use to update thatrecord using hibernateHoe to save a new record using HibernateHow to send user credentials in angularjsWrite code for it
-Your daily roles and activities in projectWhat are the exceptions you encounteredDid u handle them or you left themHow did u handleSome other question on exception which I dontrememberDid u use any collectionsGave some scenarios and asked which collectionto useGave a scenario and asked how to compare themWhat is static keyword how many ways it can beusedHave you runout of memory any time how did uhandle it
-How do u sort a list with employees based onsalary salarygt5000Bean scopesWhat are standalone scopes and web bean scopesSpring MVCAutowiring and gave a scenario and asked aboutAutowiring in it
-What all annotations did u use in SpringSome question about interfaces and beans dontrememberDid you use any database frameworksWhat are different isolations in Hibernate Idont knowScenario  you have employees and departmentwhat hibernate mapping you will useI dont want to get all the employees on thatparticular department how to do itWhat are stored proceduresSyntax of itWhat are triggersWhat are cursorsRestController vs ControllerDo you use any packages for stored proceduresWhat did you do in Angular JS in recent projectWhen consuming a service instead of get Im doingit using Post
-How to call a rest api in angularSyntax explainHow do you send a json object in a requestWhat are EC2 instances
-0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUS2Tell about the technologies used 4Is pass by reference possible in java6What does synchronous keyword mean Why do weuse it8What is deadlock10What is TreeMap12Why will u use an abstract class14What are different scopes in spring16I have a parent class of prototype scope and achild class of singleton scope
- I try to instantiate the parent class 3 times
-How many instances of child gets created18Difference between sockets and servlets20Difference between spy and mock22How do u write a junit test class
-0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUSHow garbage collection is done in java Can thedeveloper explicitly do garbage collection in their applicationWhat is authorization and authentication HowcanString abcnew StringjsString abchelloWhat is the diferrence between the twowhich is efficienttable A contains id and empname table bcontains id  time in time out dateWhich join do you useWhat is reflection in javaCan we do static initialization in propertiesfilewhat is serialization Why do we need that Howdo you implementI dont need to use hibernate in my applicationhow to connect to the database in springWhat is dependency injection Which DI did u usein your projectWhat is RESt web services
-Tell us about your project
-How do you configure rest web services
-Walk me through your projectWhat are the design patterns you usedFactory pattern
- How did u use itDo you know about Abstract factory patternFactory pattern and Abstract factory patterndifferenceSingleton patternHow do you design a Singleton classWrite code for singleton classWrite code  integer array print out theduplicate elementsWhat is serializationHow do you do itWhat is externalizationMVC pattern
-  How do you handle any defect raised by Businessusers  You will encounter cross domain issues since youhad two different servers
-1 What are the code quality and performance toolsused
-Round 1  Wiprotell me about project and frameworks used
-which build tool you usedhow do you add external dependencies to mavenlife cycle of mavensomething about maven I dont rememberdid u use ANTtell me about oops conceptsrun time and compile time polymorphismabstract classes and interfacesfeatures of java 7about exceptions on java 7collections hierarchycollections classmethods in collection classRound 2 State StreetAbout ProjectYou have your application application modules deployed on different servers
-Explain the architecture of the project you worked in Harley Davidson
-difference betwen app server and web serveris Tomcat app server or web serverWhy use tomcat over weblogicTell me about the project at trisync
-Tell me about your project
-Explain about the collections frameworkhow does hash map work internallyhow do you make a class as a key in hash mapinitial capacity of hash mapload factor in hash mapcollision in hash mapwhat are stored procedures and triggers
-joins in SQLwhat is spring boot
-Spring with restdifference between get and post methods
-what are templates in angular jsservices in angular jsfactory service and providers in angularhow do you build angular applicationhow do you send images in RESTgave a scenario and asked about unit testing
-why use lambda expressionsdefault methods in interfaces
-explain about you project
- But order details is a separate class
-difference between angularjs and angular2how to parent and child controllers communicate in angular jsvalidation in angular jsngprestinejoins in sqldependency injection in spring
-explain about your project
-how do you improve the performance of sql queries
-indexing query
-restful web services
-Explain about your project
-All the 4 projects
-What would be your approach in dealing with new projects
-Are you familiar with Agile methodology
-difference between interfaces and abstract classes
-explain about project
-what is spring MVCHow do you improve the performance of SQL
-Joins in SQL  some scenario and query for that
-HQL vs SQLtesting frameworks used
-Restful web services
-I have a spring bean with A with scope as singleton and bean B with scope prototype
- How do you inject the prototype bean into the singleton bean
-How does the lookup method injection work internally
-what is Spring MVC
-How do you define a singleton class
-0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUSØHave You used JPA with hibernateØHow can we handle the transactions in hibernateØWhat is isolation and propagation Where can weuse itØWhat are the modules in spring ØWhat are the other design patternsØWhat is the use of hash code and equals methodØIf I have 2 diff keys and equals is same
- How dou retrieve objects thenØWhat is immutable How do we achieve itØWhat is the use of final keywordØWhat is serialization What is deserializationDDifference between arraylist and linkedlistWhich should be usedLinkedlist can be used for addupdate operations and arraylist can be used for searching ØHow do u write a simple java pgm that will throwan out of memory errorØHave u faced any out of memory errorØHow to write an optimized query
-How did u provide security in ur restwebserviceDiff between treemap and hashmapHow do u we create a treemap withdescending orderHow do u sort the keys in hashmap
- What happensHow do u compare whether 2 objects areequal or notWhat configuration u do in spring for astatic methodHow do we create objects in springHow does ur application knows that it isusing annotationsDiff dependency injectionsU have a employee table 1 with emp id and empnameand another table with empid and dependent name
-Tell me about yourselfCan you talk about the company withwhich you recently worked withWhat is XSLTWhat is normalizationWhattechnology stacks did you use in your applicationWhich methodology did you work inExplain itWhat is code quality What tools didyou use to maintain code quality in your projectDifference between node js and expressjsHow do you remove duplication ofelements in a listWhat is AOPHow did you do logs in yourapplicationHow did you do exception handling inyour applicationDifference between hibernate and JPAWhat is the difference between angularjs and angular 2What is postmanWhat is sublimeWhat is the difference between javaand cWhat is inheritance Does java supportmultiple inheritanceWhat is mongodb Which one will you suggestmongodb or oracle and whyDifference between list and setWhat is pom
-Asked about the 3rdand 4th projectsWhat was the day to dayactivities in your projectsWhat was ur first task given toyou by the team from my 4th projectWhat is CSS U have 2 UI I wasusing same style sheet for both
-How did ur front end communicate with the backendWhat are restful web servicesDid u have user sessions in theapplication
- How did u manage the session  what kind of sessionsHow and when does the httpsession gets created in theserverWhat application server did u useDifference between applicationand web serverWhy do u have to use spring Whatmakes spring fasterWhat is dependency injectionAsked for the 3rdproject  explain about the companyWhat are the different scopes ofbeansWhen do u use a singleton scopeGive a real time scenario to use singleton scopeWhat is prototype scope and wheredo u use itscenarioHow do u read the properties filein spring Specify the xml tagWhat is json How do u passvalues inside jsonCan u json to transfer an imagefileHow did u populate json in rest What is log4jI have a file
- I have to read thefile and write it into the server to be more specific how to read the file and upload that file inthe serverWhat is stream What isserializable  what happens if we are not implementing serializableWhat is encapsulation  What is multiple inheritance andmultilevel inheritanceCan we do multiple inheritanceWhen will u create an interfaceWhy do u need to create interfaceWhat is jpa What is AOPWhat is spring bootCan u tell about the maven Whydo u want to use maven  where does maven come fromWhat is triggerWhat is the difference betweenhashmap and hashtable Which is thread safe and which is not  what is threadsafeIn map the methods get and putWhich is synchronous in thatwhat is generics What is the useof ithow do u iterate a collectionHow do create an iterator objectIn threads u have an object whathappens when u try to modify the same object with two threads What exceptionwill we getWe have 10 tables in hibernate
-What isoptional in javaWhat allmethods can we have in interfaces
-Can we havedefault and static methods in interfacesWhat is thedifference between default and static methodsWhat isfunctional interface Can a functional interface have more than one methodCan interfaceshave private methods WhyWhat is beanvalidationWhat is validannotation used forDifferencebetween method overloading and overridingExplaindefault access modifierDifferencebetween final variable and implicit final variableDifferencebetween StringBuilder and StringBufferWhat is threadlockWhat mockingframework did you use What is thedifference between process and threadWhat isfuture annotation
-Give a brief description aboutyour experienceWhich module did u work and whattechnologies did u useWhich java version did u work onTo connect to the db did u usejdbc templateBenefits of hibernateWhat are the annotations u usedin hibernateHow many types of mapping areallowed in hibernateA Scenario I have a process anda list of subprocesses in the db I need an api that gives a process and itssubprocess 
- how can u design the hibernate class to get the information whichmapping u would useDiff between arraylist andlinkedlistHow can u create an immutableobjectWhat is the purpose of making aclass immutableExample of immutable classWhat is the difference betweenput and postWhat is autowired annotation isused forTo inject a service class intoone of ur controller which annotation isused in the service classWhat is a component annotation orservice annotationWhich annotation is used to makea class as injectable in springU have a base class and in ur base class u arethrowing nullpointer exception and a subclass and u have overridden the method
-In the over ridden method u are throwing the generic exception
- Does the compiler throw any errorIn angular2 how do u create aserviceHave u used angular CLI Withoutusing the CLI how did u create the components in angular 2What is the purpose of componentsin angular 2What is the purpose ofpackage
-jsonIf I asked u to build aapplication how do you structure the application example I need user detailsand user transaction how do u design urfront end applicationHow do u navigate from user pageto transaction pageHow do u do routingWhile navigating I want tobookmark a page
-there are 2 pages userpage and transaction
- I want the url of userpageand transaction pageWhat did u do to style urapplication
-Tell me about ur projectTell me about ur roles andresponsibilitiesTell me about the end to end flowhow ur module works in ur projectWhat all technologies u have usedin ur applicationDid u use any algorithmsHave u used any design patternsin ur project What are those Have u used any singleton or factory designpatterns
-What are webservices What isrestWhat are the methods of HttpWhat is the difference betweenapplication server and web serverIs there any difference betweenapache and apachae tomcatDifference between interface andabstract class Give practical exampleWhat is the difference betweenrow id and row numberWhat is a stored procedureDo you know who all consumed yourweb serviceHow did you authenticate yourapplication
- Did you use any SSlWhich methodology did you work onWhat are micro servicesWhat are modulesDifference between angular js andangular 2
-Brief description about your recent project and the technologystack usedWhat are the design pattern used in your applicationWhat is a singleton pattern and where do you use itWrite a singleton classWhat was your project architecture How to create a singleton classWhat is lazy loadingWhat is a test driven methodology Have you worked on thatWhat is the advantagehow do you write a unit test case for a unit that connectsto the databasewhy do you use spring frameworkwhat is the advantage of using spring boot Write a program to convert a 3 digit number into wordseg 320should display as Three hundred twenty Explain the logic
-1 How did you do authentications2 How do you pass data to the view4 How do you handle authorization in a controller5 What do you do if you want the check the authorization for everything6 In Angular What happens in a ForEach loop and what happens in a Maps loop7 What is an observable and a promise
-1 How many Directives in Angular2 What is the difference between stateless and stateful3 What is the difference between directives and components4 What is an observable5 What is a promise
+,0
+0,Client CapitalOneTheseQuestions are Wipro Interview Questions
+1,How client can access Web services
+2,What is OOPSHow you implemented oops in your projectWhat is multiple inheritance in javaWhat is exceptionErrorWhat is Thread multi threading lifecycle of threadDifference between process and threadWhat is collectionDifference between Arraylist and VectorWhat is LinklistQueueStackDifference between HashTable HashMap Concurrent HashMap
+3,What is MVCHow you implemented MVC in your projectWhat is DAO patternWhat is HibernateWhat is POJOLife cycle of BeansWhat is persistence transientdetachedDescribe the contents of configuration file
+4,Can we have separate mapping file for every moduleWhat is springWhat is DIWhat is AOPWhat is JoinpointWhat is adviceWhat isAngular JS bindingHow to upload files using angular JSHow many controller u can have in one fileWhat is Agile and ScrumHow do u use SVN or GITWhat isOracle trigger function stored procedureWhat is innerouterLeftRightFullJoinWhatProject management tools you usedJira
+5,What are the fundamentals of OOPsWhat is InheritanceHow to extend ClassesWhat are the excess modifiers in JavaRole of Public Private and protected with exampleWhat is PolymorphismGive an Example ofPolymorphism from your projectWhat is Aspect Oriented ProgrammingWhat is Spring IOCHow you used DI in your projectSpring and Hibernate configurationDifference between Html 5 and HtmlDifference between CSS 3 and CSSUser Validation using JavaScriptWhat is the role of windows
+6,alertJQuery SelectorsThe interviewer gave situation for the alignment of data using CSSWhy you have used Angular JS along with JavaScript in your Project
+7,What are fundamentals of OOPS ConceptDifference between List and Set Provided a Scenario of Object creation using Set and ListWhat is Spring IOC And how we used Dependency Injection inour ProjectAdvantage of using Spring IOC with regard to your ProjectWhat are SOAP based Web servicesHow we can publish Web services How client can access Web services
+8,What is Inheritance How the concept of inheritance used in your projectWhat is NullPointerException Is it Checked Unchecked or Run time exceptionWhat is the difference between list and setWhy we should use Map in Collection frameworkWhat is Hibernate Configuration fileWhat is Spring MVCWhat is the architecture of Spring MVC applicationHow you have implemented Spring IOCHave you worked on EJBWhat are Restful Web ServicesHow you Publish Web ServicesHow did you used Java messaging Service in your ProjectIn Spring what is Bean ScopeHow Data binding is performed in Angular JSWhat are the Angular JS filters you have used in your project
+9,Difference between comparable and comparatorDid you implement security in web servicesExplain 3 ways of security in web servicesWhat is static variable and how is it different from othersDifference between synchronized and volatile
+10,what is spring iochow may spring ioc containers are therewhat is target objectExplain your roles in your recent projectExplain me spring MVC
+11,How would you make a REST Web ServiceWhat were you personally responsible for on each of yourprojectsExplain to me one of the implementations you createdarecreating on your current project and walk me through
+12,Have you used jQuery Have you had front end technologiesWhat kind of implementations did you create with jQuery andJavaScriptWhat is Spring MVC Explain Spring MVC to me
+13, What makesSpring MVC Spring MVCAnother guy asked me theseHave you done anything with MulesoftIf you have what have you done with itWhat are two things you typically do whenever you begin a new contract with a client
+14,What is Inheritancewhat is the difference between Array List and Linked ListWhat is the difference between List Set and MapWhat types of design pattern you have worked on Difference between thenwhat is the bean life cycleWhat is the benefit of using Dependency InjectionWhat types of Dependency injection used in projectsWhat is Spring MVC architectureHow to implement Annotation based configuration in springHow to integrate Spring with Hibernatewhat is TDDWhat is TDD cycleWhat is JunitHow to perform debuggingHave you involved in Scrum meetingWhat is Agile development methodologyHow JIRA worksWhat types of tasks are created in JIRAWhat is the key requirement of team workStrutsHow to improve performance of database such as OracleHow to perform Validation using JavaScriptHow you used JSON in JavaScriptWhat are JavaScript ScopesHow to create Restful webservicesHow to puclish Restful WebservicesDifference between SOAP and Restful Webservices
+15,What are immutable objectsWhat is the purpose of Garbage collectorWhat is NullpointerExceptionWhat is the difference between Hashmap and HashtableGive an example hashtable from your projectWhat is Spring IOCWhat is Spring AOPGive few example of Aspect oriented programming termsWhat is beans life cycleWhat are SOAP based WebservicesWhat are the limitation in SOAP webservicesHave you worked on StrutsWhat are design patterns in javaHow to perform LoggingWhat are fetching techniques in HibernateHow to perform integration between spring and Hibernate
+16,What are references in JavaWhat are types of Collection Framework in javaWhat is Immutable objectWhat the key difference between Soap and Restful Web servicesHow to Create Soap based webservicesWhat are the design patternWhat is the default bean scopeHow to improve Database performanceDifference between Stored procedures and functions
+17,What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
+18,What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
+19,What is the difference between Soap and Restful WebservicesWhat are the protocols in Restful WebservicesWhat are annotations used in Restful WebservicesHow to test Restful Webservices What tool you have usedWhat are the design pattern you have usedHow to deploy a serverHow to perform testing on serverHow to perform testing on development level in javaWhat are the steps involved in performing Unit testingWhat reporting tools you have usedWhat are the three main features of Angular JSHave you used filters in Angular JS
+20,Which HTTP method is nonidempotentWhy do we have servlet listenersHow to handle exceptions thrown by application with another servletWhat is exception and errorName few Checked and unchecked exceptionHow to create threadsHow jvm manages memorey
+21,How do we go with database connection and log4j integration in servletHow to get the IP address of client in servletWhat are important features of List and arraylist stack vector
+22,What is main method in Java How to sort ArrayList in java What is difference between wait and sleep in JavaDifference between List and Set in JavaWhat is dependency InjectionAre Spring singleton beans are threadsafe What is AOPHow Advices worksWhat is Spring SecurityWhat is view Resolver pattern Explain Spring MVC flow with a simple example
+23,Difference between ngbind and ngmodelName of first controller in Spring MVCHow to implement inheritance in javascriptoutput of 123what is isolation of scope in angularwhat are providers in angularDo we need to make restful web services as threadsafe if there are multiple threads trying to access itDifference between executor
+24,problems and challenges in the project
+25,Explain angular MVC
+26,How to switch database configuration files in hibernate
+27, In which part of MVC it comes under
+28,IF you write snippets in jsp will it not be decoupling of codeTypes of calls in angular
+29,How do you validate without submitting the pageDifference bw type of calls in angular
+30,Did you work as senior java developer and can you guide people under you in project
+31,Difference between Angular JS and JqueryWhat is OOPSHow to create custom exception
+32,What is use of autowired annotationType of spring annotationDifference between checked and unchecked exceptionWhat is Multiple inheritanceWhat is Scurm and agile methodogyWhat are wrapper classes
+33,Difference between stored procedure and functionWhat is cursor and indexHow to do normalizationWhat are concepts of OOPSWhat is difference between rest  SoapDifference between set and listWhat is Hashmap HashSet HashTableWhat is threading and how thread communicateHow to resolve dead lockWhat is Date and time apiWhat is ENUMHow many type of configuaration in springWhat is context annotation configwhat is Bean annotation
+34,gt What is the Difference between Hashmap and Hashtable gt What is Serialization  and why do we use and how to code it gt What is encapsulation and abstraction gt What is checkin and checkout in svngtwhat are the different application sever you have worked so fargt How do you deploy project on application server gt The difference between Jar  War  Ear gt What are the different types of EJB beansgt When to use Session Beans and Entity Beans gt Why do we use AngularJs gt What is ngapp directive gt How does AngularJs integrateconnect with html gt What is Model ViewgtWhat is data binding in Angular why we use itgtDifference between service and factory in angulargt Have you created Stored Proceduresgt What are Views gt What is the purposeadvantages of using views gt What are indexing used for gt Clustered and non clustered indexgtgt What is Spring  Why do we use Springgt What is BeanFactorygt What is the difference between BeanFactory and ApplicationContext gt What kinds of Dependency injection are there gt What is the process of using Dependency Injection and then of using Setter Injection Codinggt What is the difference between injecting by Name or by Type gt Describe the MVC Architecturegt What is AOP gt what is the difference between joinpoint and pointcuts gt What is an Advice and its types gt What are Web Services and why do we use them gt What are the types of Web Services gt What is the difference between SOAP and RESTFUL gt How do we decide when to use SOAP and RESTFUL gt What are some of the TECHNICAL challenges you faced in your developer careergt
+35,1 What is HQL 2 In your hibernate application how do you verify the data after making a request 3 What does the method beginTransaction do 4 Let say your Project Manager tell you that your database requests are consume a lot of memory you need to do something to improve the performance
+36, How would you do it in hibernate 5 How is the bridging established between your hibernate application and your database 6 What is SessionFactory 7 What are the different types of webservices8 What are the differences between SOAP and Restful WebServices 9 Can we send SOAP messages in a JSON format 10 How do you implement method overloading in your Webservices 11  How do you test your WebServices 12 How do you deploy your Webservices 13 In Exception Handling can we use try without catch If no why if yes how 14 If I have a try block associated with 3 catch blocks  finally block
+37, If the first catch block catches an exception will the two other catch and finally be executed15 Why finally block is always executed 16 Why multiple inheritance is not allowed in java17 What is overloading and overriding18 What are the different types of join in oracle  what are their differences 19 How do you improve performance in your requests
+38,What are the core classes in hibernate
+39,Explain the spring MVC architectureWhat are some commonly used spring MVC annotations
+40,Types of controller classes in spring
+41,Have you participated in code reviews what did you do what are best practices
+42,Explain Spring MVCHow can you return a String in a controller Answer use ResponseBody annotationExplain an example when you used Hibernate to set user roles Answer One table to hold users one table to hold user roles the user roles table had a foreign key pointing to the primary key in the Users table
+43, Explain more in detail using Hibernate to set user roles and the relationships they had Answer Inside the User class you had a Hashset storing User Roles with a One To Many Relationship annotating the set User roles method
+44, Inside the UserRoles class you have a reference to the user as well as ManyToOne annotation on the set User method
+45, For more information on how to answer this question please see this link and take a look at the model classeshttpwww
+46,What is a directive What do you do in a directive in AngularJS Answer DOM manipulation is done in directive  for more information read Angular documentation on directives it is very well written and easy to understand
+47,Explain how to use and consume various SOAP and RESTful web services know the tags inside a WSDL file
+48, Tags are porttype type binding and messageWhat is a directive in AngularJS Marker on DOM element read documentation on directives for more infoHow do you access database in AngularJS Use service with httpWhat is a memory leak in java It is when an object is not in use any longer but not picked up by the garbage collector
+49, What will happen when user hits the homebrowser3
+50, MVC architecture Various modules of spring4
+51, What Framework did you use for webservicesindirect way he asked11
+52,what method did you use in http16
+53, how http request worksSomething like that asked indirectly
+54,Explain the architecture of your last projectHow do you apply synchronization in java Synchronized block or methodWhat is dependency injectionWhat are the different scopes in spring which one is default Singleton Prototype Session Application  Singleton is defaultWhat are the 7 modules of springWhere can you apply and advise
+55,What is significance of string pool How u create iteg what is hash code and can we give one hashcode for 2 objectshow u used rest n soap web services in prjct he asked something about arraylist to write one line of code
+56,dont remember what was the question what u used to implement soap web services
+57,Dependency injection How it is achieved in Angular js6
+58,x and Angular 27
+59, Candidate with eng skills in HBase Java Python and knows how to query applications and systems for logs
+60,Why do we autowire the interface amp not the implemented class7
+61, Different annotations in spring MVC
+62,PythonDescriptionCandidates must be proficient in Django Oracle database and have strong experience developing in a Linux environment
+63, Tell me about your project
+64,4 Is string a primitive datatype5
+65,can the main method be private9
+66,can we access a private member of one class in different class if they are in same package10
+67, can we declare two method with same name11
+68,what happens if the method throws an exception that was not specified in method declaration12
+69,can we have static method in an interface13
+70, what are immutable classes in java19
+71,Exception handling with method overloading21
+72, Hibernate core java pl sql
+73, Different types of Dependency Injection which one did you use Write a code for that
+74, JPA how did you use hibernate in your project
+75, write a sample code
+76, what is overloading and overridingwrite a code
+77, write a update query in PLSQL code
+78, what is group by can you use two columns to group by write a code
+79, can we do method overloading from the same class what is the use of method overloading8
+80,write a code for inheritance10
+81,what is aggregationBasically was asked to write a code for all the questions
+82,PythonConvert this list of strings into an sequence of type numbers  123
+83,34Filter Reduce MapDatabase Migrations in DjangoList vs TupleImmutable vs mutable data typeHow to integrate AWS
+84,what angularJSWhat is promisewhat is ngBind anf ngmodelwhat are object in javascriptWhat is prototypewhat is closure
+85,how to over ride equal method5
+86, what is the best approach to write a multiple records from excel sheet in to the database
+87, hashcode and equals methos13
+88, write a code to iterate though the hashset
+89, how to debug a service
+90,Tell about yourselfArchitecture of projectHow did you create UI layer for projectwhat is two way binding and onebinding and how do you achieve in angularJSFlow of data from backend to front end in angular2How did you test you angular applicationwhat is SPA in AngularJS
+91,1 What are Promises in AngularJS2 Where did you use promises3 Dependency Injection in AngularJS4Explain Digest Cycle5Scope in angularJS6How to share data between controllers in AngularJS6rootScope scope8broadcastemiton9ngif ngshow10routing
+92,1 How did you handle performance problems in your project2write a code for the function which returns numbers between 1 to 100 not divisible by 53What are Restfulwebservices Annotations used etc4Design patterns used5Where did you use singleton design pattern
+93, tell the code6Diff ways of DI in spring what is the best way7promises in angularjs8form control vs ngmodel9How do you debug when a button of a form doesnt submit10debugging tools used in angularjs11how to create immutable class in java 12abstract class vs interface13Java 8 new faetures14when is multi threading not a good idea15race condition in multithreading16synchronization in multithreading17have you used trylock18what happens if two different keys have same hashcode19restController vscontroller20how to improve performance of query in oracle
+94,Tell me about you projectWhat is shadow DOM in angular 2How child component communicate with parent componentHow to provide routing in Angular 2what is childviewHow to deploy you angular 2 Appwhat is lazyloading Difference between Promise and ObservableVarious binding in Angular Explain
+95,Tell me about your projectAsk about technology stack used for previous projectswhat is first thing that you do if respond time for application is more in J2EE How did you consume rest web service
+96, what did you do in your last project
+97, Did you work on JMS Jquery and JSP Servlet4
+98, Web services SOAP or REST5
+99, How to you call a restfull web services6
+100, How will you transfer data through a restfull web services8
+101, Spring MVC life cycle
+102, Database experience in Plsql19
+103, Did you participate in code review26
+104, Did you participate in creating user stories30
+105, How would you approach a user stories31
+106, Who gave you user stories33
+107, Did you review others code34
+108, how did you test your code if there is no front end38
+109, Did you do testing on your code40
+110,How u implement serializationWhat are the methods inside serializableinterface we need to overrideit dosent have any methodsexternalizationsynchronizationif I want share data between two threads to bethread safe and not use synchronizationbecause of performance issuehash map how internal work itgenericsbounded and unbounded wildcards differentcan I access non static variable from staticcontextcallable interface runable best way to impl thread how many options we havedifferent betw set listsort list in order by salary etccompare and comparablemodels in spring u usescope in spring beansone class two beandifr id definition how manyobj createddiffr singleton java and springInjecting prototype bean insingleton bean in SpringImportant components I spring JDBCWhere u use AOPConstructor and setter injection How u do integration hibernate in springHibernate dialectSecurityfor web services how u implement itAdvantages of web servicesWitch u recommend to use and whyWhat is platform independentYour front end technologiesWhat is one way and two way bindingData flowsfrom the scopecontroller to the viewWhat is default bindingHow we do one way bindingDiff betw scope and root scopeDiff betwservices and factoryTell me some directivesWhat services u use in your appWhat db u useDate functions in dbDiff union union allUNIONremovesduplicate recordsI have a table I want to del duplicate data exof querySystem give u a lot of data it go very fast uhave to process the data and insert in one dbvery big data make it fast androbustRemove duplicate from stringDesign patterns which u useDiff betw factory and abstract patternfactorymethod is a single method and an abstract factory is an object
+111,1Introduce yourself2Explain about your project3Explain the module you have been working4How big was your data
+112, How many records did youreceive5Where you directly involved with the clients6Have you faced any performance issues in yourproject What was it7How big was your team On what modules did eachof them work on8What was the database you used9What are triggers1  What are indexes in database1 What is difference between angular js andangular 212 Drawbacks of angular 213Autowired annotation usage14 Features of java 815 Design patterns used in your project16 What is agile methodology
+113,1Talk about the recent projects you worked on and on therecent technologies2what kind of design patterns did u use3 how have u used DAO pattern in your project How does itwork4what is Dependency injection How did u use dependencyinjection in your project5what are some ways you can achieve dependency injection6 What is Factory design pattern7We have class A and Class B
+114, we need to inject an instanceof class b into class A
+115,10 What all scopes have u used in your project11Where do you use prototype scope12what are restful web services What are the dataoperations you performed using Rest13What is the difference between POST AND PUT methods14Difference between Angular js And angular 215We have an angular component and a service how do youinject a service to an angular component16Talk about hibernate How do you use it Where do you use17How do you the mapping in hibernate 18Other than the xml file how do you do the mapping19Lazy Loading20We have a customer table and a contact table
+116,o Whatis the difference between default and static methodso Caninterfaces have private methods Whyo Whatis valid annotation used for o Explaindefault access modifiero Differencebetween StringBuilder and StringBuffero Whatmocking framework did you use o Whatis the difference between process and threadWhat is future annotation
+117,What are webservices What is restWhat is the difference between applicationserver and web serverDifference between interface and abstract classGive practical exampleWhat is a stored procedureHow did you authenticate your application
+118, Didyou use any SSlWhat are micro servicesDifference between angular js and angular 2
+119,ØCan you talk about the company with which yourecently worked withØWhat is normalizationØWhich methodology did you work in Explain it is a free and open source static code analysis tool used insoftware development for checking whether Java code conforms to the codingconventions you have established
+120,is a static code analysis tool that iscapable to automatically detect a wide range of potential bugs and unsafe ornonoptimized code
+121,is an open sourceJava code quality tool similar in some ways to Checkstyle and PMD but with aquite different focus
+122,In fact it concentrates on detecting potentialbugs and performance issues and does a very good job of detecting a variety ofmany types of common hardtofind coding mistakes including threadsynchronization problems null pointer dereferences infinite recursive loopsmisuse of API methods etc
+123, FindBugs operates on Java bytecode rather thansource code
+124,1Talk about the recent projects you worked on and on therecent technologies2what kind of design patterns did u use3 how have u used DAO pattern in your project How does itwork4what is Dependency injection How did u use dependencyinjection in your project5what are some ways you can achieve dependency injection6 What is Factory design pattern7We have class A and Class B
+125, we need to inject an instanceof class b into class A
+126,10 What all scopes have u used in your project11Where do you use prototype scope12what are restful web services What are the dataoperations you performed using Rest13What is the difference between POST AND PUT methods14Difference between Angular js And angular 215We have an angular component and a service how do youinject a service to an angular component16Talk about hibernate How do you use it Where do you use17How do you the mapping in hibernate 18Other than the xml file how do you do the mapping19Lazy Loading20We have a customer table and a contact table
+127,Explain me about the project
+128, What are your rolesDid you make any modifications in your DAO class
+129,What are the differences between AngularJS and angular2 and angular 4
+130,Configuration of RESTful web services
+131,Tell me about your projectWhat are your roles what did u do in your projectWhat are Generics with Example where did u use them
+132,What are collectionsAbout Maps custom and inbuilt methodsHow to find unique keys in mapsIs it the same method for other collections franeworks alsoHow to make a singeleton MapWhat are immutable classes
+133,Write code for immutable classesHow to send data from properties file to a classSpring MVCHow to configure spring beansWhat is hibernateHow to map an Employee class with the dataHow to generate emp id in emp class using hibernateDo u do it in your class or in oracleHow to manage transactions in hibernateYou have a record in database and what will u use to update thatrecord using hibernateHoe to save a new record using HibernateHow to send user credentials in angularjsWrite code for it
+134,Your daily roles and activities in projectWhat are the exceptions you encounteredDid u handle them or you left themHow did u handleSome other question on exception which I dontrememberDid u use any collectionsGave some scenarios and asked which collectionto useGave a scenario and asked how to compare themWhat is static keyword how many ways it can beusedHave you runout of memory any time how did uhandle it
+135,How do u sort a list with employees based onsalary salarygt5000Bean scopesWhat are standalone scopes and web bean scopesSpring MVCAutowiring and gave a scenario and asked aboutAutowiring in it
+136,What all annotations did u use in SpringSome question about interfaces and beans dontrememberDid you use any database frameworksWhat are different isolations in Hibernate Idont knowScenario  you have employees and departmentwhat hibernate mapping you will useI dont want to get all the employees on thatparticular department how to do itWhat are stored proceduresSyntax of itWhat are triggersWhat are cursorsRestController vs ControllerDo you use any packages for stored proceduresWhat did you do in Angular JS in recent projectWhen consuming a service instead of get Im doingit using Post
+137,How to call a rest api in angularSyntax explainHow do you send a json object in a requestWhat are EC2 instances
+138,0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUS2Tell about the technologies used 4Is pass by reference possible in java6What does synchronous keyword mean Why do weuse it8What is deadlock10What is TreeMap12Why will u use an abstract class14What are different scopes in spring16I have a parent class of prototype scope and achild class of singleton scope
+139, I try to instantiate the parent class 3 times
+140,How many instances of child gets created18Difference between sockets and servlets20Difference between spy and mock22How do u write a junit test class
+141,0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUSHow garbage collection is done in java Can thedeveloper explicitly do garbage collection in their applicationWhat is authorization and authentication HowcanString abcnew StringjsString abchelloWhat is the diferrence between the twowhich is efficienttable A contains id and empname table bcontains id  time in time out dateWhich join do you useWhat is reflection in javaCan we do static initialization in propertiesfilewhat is serialization Why do we need that Howdo you implementI dont need to use hibernate in my applicationhow to connect to the database in springWhat is dependency injection Which DI did u usein your projectWhat is RESt web services
+142,Tell us about your project
+143,How do you configure rest web services
+144,Walk me through your projectWhat are the design patterns you usedFactory pattern
+145, How did u use itDo you know about Abstract factory patternFactory pattern and Abstract factory patterndifferenceSingleton patternHow do you design a Singleton classWrite code for singleton classWrite code  integer array print out theduplicate elementsWhat is serializationHow do you do itWhat is externalizationMVC pattern
+146,  How do you handle any defect raised by Businessusers  You will encounter cross domain issues since youhad two different servers
+147,1 What are the code quality and performance toolsused
+148,Round 1  Wiprotell me about project and frameworks used
+149,which build tool you usedhow do you add external dependencies to mavenlife cycle of mavensomething about maven I dont rememberdid u use ANTtell me about oops conceptsrun time and compile time polymorphismabstract classes and interfacesfeatures of java 7about exceptions on java 7collections hierarchycollections classmethods in collection classRound 2 State StreetAbout ProjectYou have your application application modules deployed on different servers
+150,Explain the architecture of the project you worked in Harley Davidson
+151,difference betwen app server and web serveris Tomcat app server or web serverWhy use tomcat over weblogicTell me about the project at trisync
+152,Tell me about your project
+153,Explain about the collections frameworkhow does hash map work internallyhow do you make a class as a key in hash mapinitial capacity of hash mapload factor in hash mapcollision in hash mapwhat are stored procedures and triggers
+154,joins in SQLwhat is spring boot
+155,Spring with restdifference between get and post methods
+156,what are templates in angular jsservices in angular jsfactory service and providers in angularhow do you build angular applicationhow do you send images in RESTgave a scenario and asked about unit testing
+157,why use lambda expressionsdefault methods in interfaces
+158,explain about you project
+159, But order details is a separate class
+160,difference between angularjs and angular2how to parent and child controllers communicate in angular jsvalidation in angular jsngprestinejoins in sqldependency injection in spring
+161,explain about your project
+162,how do you improve the performance of sql queries
+163,indexing query
+164,restful web services
+165,Explain about your project
+166,All the 4 projects
+167,What would be your approach in dealing with new projects
+168,Are you familiar with Agile methodology
+169,difference between interfaces and abstract classes
+170,explain about project
+171,what is spring MVCHow do you improve the performance of SQL
+172,Joins in SQL  some scenario and query for that
+173,HQL vs SQLtesting frameworks used
+174,Restful web services
+175,I have a spring bean with A with scope as singleton and bean B with scope prototype
+176, How do you inject the prototype bean into the singleton bean
+177,How does the lookup method injection work internally
+178,what is Spring MVC
+179,How do you define a singleton class
+180,0ptfontfamilyCalibrisansserifmsoasciifontfamilyCalibrimsoasciithemefontminorlatinmsohansifontfamilyCalibrimsohansithemefontminorlatinmsobidifontfamilyKartikamsobidithemefontminorbidimsofareastlanguageENUSØHave You used JPA with hibernateØHow can we handle the transactions in hibernateØWhat is isolation and propagation Where can weuse itØWhat are the modules in spring ØWhat are the other design patternsØWhat is the use of hash code and equals methodØIf I have 2 diff keys and equals is same
+181, How dou retrieve objects thenØWhat is immutable How do we achieve itØWhat is the use of final keywordØWhat is serialization What is deserializationDDifference between arraylist and linkedlistWhich should be usedLinkedlist can be used for addupdate operations and arraylist can be used for searching ØHow do u write a simple java pgm that will throwan out of memory errorØHave u faced any out of memory errorØHow to write an optimized query
+182,How did u provide security in ur restwebserviceDiff between treemap and hashmapHow do u we create a treemap withdescending orderHow do u sort the keys in hashmap
+183, What happensHow do u compare whether 2 objects areequal or notWhat configuration u do in spring for astatic methodHow do we create objects in springHow does ur application knows that it isusing annotationsDiff dependency injectionsU have a employee table 1 with emp id and empnameand another table with empid and dependent name
+184,Tell me about yourselfCan you talk about the company withwhich you recently worked withWhat is XSLTWhat is normalizationWhattechnology stacks did you use in your applicationWhich methodology did you work inExplain itWhat is code quality What tools didyou use to maintain code quality in your projectDifference between node js and expressjsHow do you remove duplication ofelements in a listWhat is AOPHow did you do logs in yourapplicationHow did you do exception handling inyour applicationDifference between hibernate and JPAWhat is the difference between angularjs and angular 2What is postmanWhat is sublimeWhat is the difference between javaand cWhat is inheritance Does java supportmultiple inheritanceWhat is mongodb Which one will you suggestmongodb or oracle and whyDifference between list and setWhat is pom
+185,Asked about the 3rdand 4th projectsWhat was the day to dayactivities in your projectsWhat was ur first task given toyou by the team from my 4th projectWhat is CSS U have 2 UI I wasusing same style sheet for both
+186,How did ur front end communicate with the backendWhat are restful web servicesDid u have user sessions in theapplication
+187, How did u manage the session  what kind of sessionsHow and when does the httpsession gets created in theserverWhat application server did u useDifference between applicationand web serverWhy do u have to use spring Whatmakes spring fasterWhat is dependency injectionAsked for the 3rdproject  explain about the companyWhat are the different scopes ofbeansWhen do u use a singleton scopeGive a real time scenario to use singleton scopeWhat is prototype scope and wheredo u use itscenarioHow do u read the properties filein spring Specify the xml tagWhat is json How do u passvalues inside jsonCan u json to transfer an imagefileHow did u populate json in rest What is log4jI have a file
+188, I have to read thefile and write it into the server to be more specific how to read the file and upload that file inthe serverWhat is stream What isserializable  what happens if we are not implementing serializableWhat is encapsulation  What is multiple inheritance andmultilevel inheritanceCan we do multiple inheritanceWhen will u create an interfaceWhy do u need to create interfaceWhat is jpa What is AOPWhat is spring bootCan u tell about the maven Whydo u want to use maven  where does maven come fromWhat is triggerWhat is the difference betweenhashmap and hashtable Which is thread safe and which is not  what is threadsafeIn map the methods get and putWhich is synchronous in thatwhat is generics What is the useof ithow do u iterate a collectionHow do create an iterator objectIn threads u have an object whathappens when u try to modify the same object with two threads What exceptionwill we getWe have 10 tables in hibernate
+189,What isoptional in javaWhat allmethods can we have in interfaces
+190,Can we havedefault and static methods in interfacesWhat is thedifference between default and static methodsWhat isfunctional interface Can a functional interface have more than one methodCan interfaceshave private methods WhyWhat is beanvalidationWhat is validannotation used forDifferencebetween method overloading and overridingExplaindefault access modifierDifferencebetween final variable and implicit final variableDifferencebetween StringBuilder and StringBufferWhat is threadlockWhat mockingframework did you use What is thedifference between process and threadWhat isfuture annotation
+191,Give a brief description aboutyour experienceWhich module did u work and whattechnologies did u useWhich java version did u work onTo connect to the db did u usejdbc templateBenefits of hibernateWhat are the annotations u usedin hibernateHow many types of mapping areallowed in hibernateA Scenario I have a process anda list of subprocesses in the db I need an api that gives a process and itssubprocess 
+192, how can u design the hibernate class to get the information whichmapping u would useDiff between arraylist andlinkedlistHow can u create an immutableobjectWhat is the purpose of making aclass immutableExample of immutable classWhat is the difference betweenput and postWhat is autowired annotation isused forTo inject a service class intoone of ur controller which annotation isused in the service classWhat is a component annotation orservice annotationWhich annotation is used to makea class as injectable in springU have a base class and in ur base class u arethrowing nullpointer exception and a subclass and u have overridden the method
+193,In the over ridden method u are throwing the generic exception
+194, Does the compiler throw any errorIn angular2 how do u create aserviceHave u used angular CLI Withoutusing the CLI how did u create the components in angular 2What is the purpose of componentsin angular 2What is the purpose ofpackage
+195,jsonIf I asked u to build aapplication how do you structure the application example I need user detailsand user transaction how do u design urfront end applicationHow do u navigate from user pageto transaction pageHow do u do routingWhile navigating I want tobookmark a page
+196,there are 2 pages userpage and transaction
+197, I want the url of userpageand transaction pageWhat did u do to style urapplication
+198,Tell me about ur projectTell me about ur roles andresponsibilitiesTell me about the end to end flowhow ur module works in ur projectWhat all technologies u have usedin ur applicationDid u use any algorithmsHave u used any design patternsin ur project What are those Have u used any singleton or factory designpatterns
+199,What are webservices What isrestWhat are the methods of HttpWhat is the difference betweenapplication server and web serverIs there any difference betweenapache and apachae tomcatDifference between interface andabstract class Give practical exampleWhat is the difference betweenrow id and row numberWhat is a stored procedureDo you know who all consumed yourweb serviceHow did you authenticate yourapplication
+200, Did you use any SSlWhich methodology did you work onWhat are micro servicesWhat are modulesDifference between angular js andangular 2
+201,Brief description about your recent project and the technologystack usedWhat are the design pattern used in your applicationWhat is a singleton pattern and where do you use itWrite a singleton classWhat was your project architecture How to create a singleton classWhat is lazy loadingWhat is a test driven methodology Have you worked on thatWhat is the advantagehow do you write a unit test case for a unit that connectsto the databasewhy do you use spring frameworkwhat is the advantage of using spring boot Write a program to convert a 3 digit number into wordseg 320should display as Three hundred twenty Explain the logic
+202,1 How did you do authentications2 How do you pass data to the view4 How do you handle authorization in a controller5 What do you do if you want the check the authorization for everything6 In Angular What happens in a ForEach loop and what happens in a Maps loop7 What is an observable and a promise
+203,1 How many Directives in Angular2 What is the difference between stateless and stateful3 What is the difference between directives and components4 What is an observable5 What is a promise

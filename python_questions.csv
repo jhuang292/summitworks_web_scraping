@@ -1,97 +1,252 @@
 ,0
 0, Write a Fibonacci series using a REST API VIEW that accepts an input from the user and displays the output assuming that there are no models but make sure it is a Class Based View not just a function
-1, If I have a python 2 code what will I need to do to ensure that it will be compatible with python 3Q4
-2, How did you deploy your Django application on a server did you write any scripts on a single server not talking about cloud like AWS
-3, Are you comfortable working on LinuxQ8
-4, Write a Fibonacci series using a REST API VIEW that accepts an input from the user and displays the output assuming that there are no models but make sure it is a Class Based View not just a function
-5, If I have a python 2 code what will I need to do to ensure that it will be compatible with python 3Q4
-6, How did you deploy your Django application on a server did you write any scripts on a single server not talking about cloud like AWS
-7, Are you comfortable working on LinuxQ8
-8,Position was a PythonDjango Fullstack DeveloperFirst interviewerWhat are the differences between a set and a listCan you iterate over a setCan you sort a setHow do you sort a setWhat does the zip function doCan you zip more than 2 listsWhat does the copy function doWhat is the difference between a shallow copy and a deep copyWhat is encapsulationHow do you implement encapsulation in pythonWhat is a private variable and a protected variableWhat is a constructorCan you have multiple constructorsHow do you implement overloading in pythonWhat is inheritanceHow do you implement inheritance in pythonDoes python support multiple inheritanceHow does multiple inheritance work with inheritance orderWhat is the difference between a class and an objectGive me a highlevel overview of garbage collection in python
-9,What is ORM and why is it usefulHow do you create a foreign key in ORMHow does lazyloading work in Django modelsHow does pagination work in DjangoHow do you make an AJAX call in JQuery and how do you tell if it succeeded or failedSecond interviewerWhat is encapsulationHow do you implement encapsulation in pythonHow do you make a variable private Protected PublicWhat is the super methodWhat are decoratorsHow do you write decoratorsWhen would you use a decoratorHave you used response codes in a REST APIWhat are serializers in regards to APIsWhat are serializers used forWhat is sharding in MongoDBWhat is the difference between range and xrange in pythonWhat is the use of unit testingHow would you design a unit testWhat is integration testingWhat was you Git workflow like on your last projectHave you ever used any debugging toolsLive coding example make a function that checks if two strings are anagrams
-10,What is the difference between a list and a tupleCan you give a use case for when you would use a list and when you would use a tupleA junior developer comes to you with the following code and asks for your feedback
-11,appendoutput_from_other_function  return lWhat is a herea  funcWhat is b hereb  funcWhat is c herec  a is bWhat is the output herelenaThe code is dysfunctional because l refers to the same list object in memory every time the function is called without an argument
-12, have you ever have performance issue in your project and how did you handle that6
-13, have you ever have performance issue in your project and how did you handle that6
-14,What are your favorite Python modulesExplain about recent projectDjango TemplatingHow to test a python ApplicationHow to handle uneven data in filesWhat performance issues did you encounterExplain about a time when you were unable to perform a taskWhat are you good at Your strengths What were your day to day activitiesHow did you Agile project work What Agile tool did you use
-15, Why you choose python for development
-16, Database performance question
-17, Problems I faced in python
-18,How to test a Python codeAsked question whether i used Selenium to test code
-19,what is python3
-20,which data structures you used in python4
-21,inheritance in python21
-22,What are different data types in python
-23,What is lambda function14
-24,What is pickling and unpickling in python20
-25,What are different data types in python
-26,What is lambda function14
-27,What is pickling and unpickling in python20
-28,Difference between list and a tupleWhat is pickling and unpickling in pythonSparkPysparkjivejira
-29,Q Quickly describe your recent projectQ How do you rate yourself in pythonQ What is ORM in detailQ How much  were you hand codingQ Do you know any design pattern Services in Angular falls into which design patternQ Difference and similarities if any between SQL and NoSQL database Which is faster for searching NoSQLSQLQ Given two strings s1 and s2 containing series of characters in both strings
-30, Write logicalgorithm to find the common characters from both and insert into a list has to be efficientQ What is REST Api and where can you use itQ Imagine a continuous flow of data being received my backend from front end
-31, How do you handle itQ Any recommended proactive improvementsQ What is Garbage collector GC and when it will come into playQ What is the difference between Promises DIrectives and ServicesQ What is LASSSASS How it is advantageous to use over CSSQ Difference between Angular JS Angular 2 Q Do you know Linux commandsShell scriptinghow to transfer data from Windows to Linux or from one computer having Linux to another computer with LinuxQ What is unit testingQ Which version control were you using
-32,What is the limit of lambda expression3
-33,Whats MRO How does it workPython scope question  x1 y2 z3def changexxglobal y x  4y  6xx  5z  7whats the resultImplement classmethodwithout using classmethod decoratorregular expression  remove the duplicated word in the wordinput  Hello Helloworld world worldyes eyes yes eyesoutput  gt Helloworldyes eyesgt solution  regular expression lookaheadWhat kind of performance issues did you haveHow did you solve the performanceproblemThe result of eachcode  Testing the capability of reading python code I dont remember exactly
-34,difference between Multi processes Multi Threadingswhat is GILGlobal interpreter lockShow me lambda where did you use thatDecoratorHow did you solve the performance problemImplement Inheritance Deep problemSuperMulti Inheritance
-35,Based on the code snippet below which of the following will be the output when the code is executed in interactive modeElementsetherairfirewaterprintElements0printElements3printElements2Elements2earthprintElements2Which of the following will be the output of the script belowLine 1 A30Line 2 B7Line 3 CABLine 4 DABLine 5 EABLine 6 printCLine 7 printDLine 8 printELine 1 gtgtgtdef wishmessageLine 2 
-36, return lambda name message
-37, Based on the code snippet below which of the following will be the output when executed in interactive modeLine 1 gtgtgt aWelcomeLine 2 gtgtgt bWelcomeLine 3 gtgtgt cGoodByeLine 4 gtgtgt dGoodByeLine 5 gtgtgt a is bLine 6 gtgtgt c is dSQL QuestionTable1 has just one column City with the following list of valuesCHICAGOBOISECHATTANOOGAHONOLULUROMEMADRIDOSLOQuery for the city in the table with the shortest name and the city with the longest namefind employee whose salary is second highest
-38,How does it work in javascript do they pass by value or by referenceWhat is the difference betweenstaticmethodandclassmethodWhats the difference between truncate and deleteWhats the difference between iterator and generatorDid you have anyperformanceissues and what was your creative solutionWhat did you use Unittest for what is Unittest How dod you use itTell me aboutdjango architectureImplement the CRUD operator using RestAPIHave you ever usedRestframeworkusing async in pythonWhat isfunctool partial how does it workGive me examples of decorators in django
-39,Show me How you write Restful API with the serializerIn the given arrayfind all probable sub arrays that have the given sumno duplicate arrayexamplearr  12342134512sum  3output  111 12
-40,How do you randomize an listWhat is self in pythonWhat is zipWhat is 
-41,pycHow do we change tupleWhat is the differences between list and tupleWhat is lambda expression
-42,How would you code for this Open the text file and count the capital letters in the textHow do you reassign tuple and listWhat is multithreading How do you import thatWhat are the differences range and xrangeWhat is different between python2 and python3Tell me about Python inheritanceWhat is different between deep copy and shallow copyHow does python memory management workHow do you useexception in pythonHow do you access the attributes of parent class from Child class
-43, When the data is even numberreturn 1 or odd number return 0a   1 if x20 else 0 for x in range120Implement the same function using lambda exprssionWhats Lambda expression
-44,What are the advantages and disadvantagesargs and kwargsHow do you use def aargkwargsWhat if my_functionmynamehello1234argaddressa10b20What happenspython 2 and 3 differenceWhich python version are you used toWhat did you choose to use PythonWhats the result of thisa  123a23how do you convert datatype to strWhat is immutable give me the list of the immutables and mutablesWhats tuple Give me theusage of tupleWhat variable type do they have in pythonHow would you slice TupleWhat are theMultipleprocess and multithreading Tell me thedifferences How do you use themtell me the example about the Python Compile errors trap question
-45, There is no compile errors in python since its an interpreter language
-46,args in pythonWhat is series in pythonTell me the differences between dir and something
-47,DjangoQuestionsWhat are modelsWhat are viewsWhat are urlsWhat are templatesPythonQuestionsCan a dictionary have repeated keysCan a dictionary have repeated valuesCan you nest a dictionary within anotherHow do you convert CSV files to python objectsDifference between threading and processHave you use pandasHave you use Beautiful SoupGeneralQuestionsWhat did you do on your last projectHow did Django play a role on the project
-48,What was the challenge you had changing SQL server to NoSQLWhat performance issue did you have in the last project
-49,Can you tell me about multiprocess in pythonWhats difference from multithreadingWhats global interpreter lockGILWhats lambda expression in Python
-50, What is memory management in python4
-51, What is REST stand for what is REST5
-52,what is lambda7
-53, SQL use join to merge two tables
-54, some performance questions
-55,python give a unsorted integer array  positive negative find three numbers that have a maximalproduct in the array return the max product
-56,SQL design a database that use for a website which can let the user to post pictures store the picture url in the database
-57, Different between python3 and python26
-58,Q how to select an element of id tag from an html code using cssQ how to select a p element of id tag from an html code using cssQ What is difference between call apply and bind
-59,In the Given situation I have the code that is dependant on your code on the same branch tell me the right steps to collaborate the code together and git command linepull origin dont use UI for github
-60,Given elementarr  310145792310 a  sortedlistarrreversedTruePerform the same sorting operation without using python module
-61, Pseudo code
-62, How did you use itHow do you convert databse file to python object using PandasHow did you with change a real world question
-63, When you are finished please push your code to a Github or Bitbucket etc
-64,1 Create a HTTP API server application in Python that has a single endpoint status that should return a JSON response with the followingcontent a how long the application has been running since the start of this process b the number of times this endpoint has been called since the start of this process c the datetime at which this endpoint was first called ever independent of this particular process d the number of times any of the servers endpoints have been called ever also independent of this particular processTo clarify for steps c and d if the application terminates and is restarted at a later time the existing timesvalues should persist
-65,2 Create a HTTP server in NodeJS with an index route  that a Calls status on the API server b Renders an HTML result page containing the API results displayed in a way of your choosing3 Design and write simple UI presenting the data fetched from your API endpoint
-66,Why did you use restapiWhat enterprise did you useWhat are the stacks in your projectsHow did you publish your projectsTell me the achitecture of your API serverHow do you decorate class based functionsWhat did you use the decorators forWhat decorators did you use in DjangoWhat was your CICD pipelineWhats Lambda expression and how did you use in DjangoYou used DynamoDB
-67,Pythonaddition1  2  3 a  b  ab how it worksDifferent between python3 and python2 when you create a class
-68,What is overload in python
-69,Delete the duplicate values in the listInput  1112333456777789910Ouput  12345678910 Can you develop it What if you have a memory limit how would you develop the codeTable has rank people like thisRank Student_name5   George1Kyungbae2Xyz3   ABCWrite a query to get a second rankIn the given situation you get many data files through google sheet or google docs
-70,some basic python questionsbasic of unix commondcodingtest
-71, explain the time complexity of your code7
-72, If you have 40000 lines of code in MongoDB and you use only a few fields often What is the best approach to do so12
-73, Use a serialzer in a view to write an sql query using SQLAlchemy to fetch details of a person and send it to the template
-74, How do you extend object in python and typescript13
-75, Give example of a lambda function in AWS using Python9
-76, Two SQL questions to write queriesDjango4
-77, For a post function for REST API how do you find the user to check for authenticationAns
-78,Explain the post function in REST API
-79, how many types of copies are there in python and explain deep copy and shallow copy3
-80, explain Inheritance in python4
-81, How to you create restapi8
-82, what is status code 4019
-83, what are the drivers you will install for mysql and oracle11
-84, write code for String reverse2
-85, Does python supports threading2
-86, Is python call by value or call by reference4
-87, Explain about djangorestapi9
-88, how did you secure django connect the database building the APIs
-89, They have shown me burgerapp requirement onn the system and asked me to write the restapi code on the board for the burger application by using the CRUD operations with detailed explanation
-90, He asked me to write the unit test code for the given function5
-91, how to you do batchprocessing in python4
-92,js amp Python django  djangorestapi in your project 7
-93, if python interpreted programming language then what is 
-94,py in python and where it is located
-95,Django REST framework API
+1, If I have a python 2 code 
+2,what will I need to do to ensure that it will be compatible with python 3Q
+3, 
+4,How did you deploy your Django application on a server did you write any scripts on a single server not talking about cloud like AW
+5, Are you comfortable working on LinuxQ8
+6, Write a Fibonacci series using a REST API VIEW that accepts an input from the user and displays the output assuming that there are no models but make sure it is a Class Based View not just a function
+7, If I have a python 2 code 
+8,what will I need to do to ensure that it will be compatible with python 3Q
+9, 
+10,How did you deploy your Django application on a server did you write any scripts on a single server not talking about cloud like AW
+11, Are you comfortable working on LinuxQ8
+12,Position was a PythonDjango Fullstack DeveloperFirst interviewer
+13,What are the differences between a set and a listCan you iterate over a setCan you sort a se
+14,How do you sort a set
+15,What does the zip function doCan you zip more than 2 lists
+16,What does the copy function do
+17,What is the difference between a shallow copy and a deep copy
+18,What is encapsulatio
+19,How do you implement encapsulation in python
+20,What is a private variable and a protected variable
+21,What is a constructorCan you have multiple constructor
+22,How do you implement overloading in python
+23,What is inheritanc
+24,How do you implement inheritance in pythonDoes python support multiple inheritance
+25,How does multiple inheritance work with inheritance order
+26,What is the difference between a class and an objectGive me a highlevel overview of garbage collection in pyth
+27,What is ORM and 
+28,why is it usef
+29,How do you create a foreign key in ORM
+30,How does lazyloading work in Django models
+31,How does pagination work in Django
+32,How do you make an AJAX call in JQuery and
+33,how do you tell if it succeeded or failedSecond interviewer
+34,What is encapsulatio
+35,How do you implement encapsulation in python
+36,How do you make a variable private Protected Public
+37,What is the super method
+38,What are decorator
+39,How do you write decoratorsWhen would you use a decoratorHave you used response codes in a REST API
+40,What are serializers in regards to APIs
+41,What are serializers used for
+42,What is sharding in MongoDB
+43,What is the difference between range and xrange in python
+44,What is the use of unit testin
+45,How would you design a unit test
+46,What is integration testing
+47,What was you Git workflow like on your last projectHave you ever used any debugging toolsLive coding example make a function that checks if two strings are anagr
+48,What is the difference between a list and a tupleCan you give a use case for when you would use a list and when you would use a tupleA junior developer comes to you with the following code and asks for your feedbac
+49,appendoutput_from_other_function  return l
+50,What is a herea  func
+51,What is b hereb  func
+52,What is c herec  a is b
+53,What is the output herelenaThe code is dysfunctional because l refers to the same list object in memory every time the function is called without an argumen
+54, have you ever have performance issue in your project and 
+55,how did you handle that
+56, have you ever have performance issue in your project and 
+57,how did you handle that
+58,What are your favorite Python modulesExplain about recent projectDjango Templatin
+59,How to test a python Application
+60,How to handle uneven data in files
+61,What performance issues did you encounterExplain about a time when you were unable to perform a task
+62,What are you good at Your strengths 
+63,What were your day to day activitie
+64,How did you Agile project work 
+65,What Agile tool did you u
+66, 
+67,Why you choose python for developmen
+68, Database performance question
+69, Problems I faced in python
+70,How to test a Python codeAsked question whether i used Selenium to test cod
+71,what is python
+72,which data structures you used in python4
+73,inheritance in python21
+74,What are different data types in pytho
+75,What is lambda function1
+76,What is pickling and unpickling in python2
+77,What are different data types in pytho
+78,What is lambda function1
+79,What is pickling and unpickling in python2
+80,Difference between list and a tuple
+81,What is pickling and unpickling in pythonSparkPysparkjivejir
+82,Q Quickly describe your recent projectQ 
+83,How do you rate yourself in pythonQ 
+84,What is ORM in detailQ
+85,How much  were you hand codingQ Do you know any design pattern Services in Angular falls into which design patternQ Difference and similarities if any between SQL and NoSQL database Which is faster for searching NoSQLSQLQ Given two strings s1 and s2 containing series of characters in both string
+86, Write logicalgorithm to find the common characters from both and insert into a list has to be efficientQ 
+87,What is REST Api and where can you use itQ Imagine a continuous flow of data being received my backend from front en
+88, 
+89,How do you handle itQ Any recommended proactive improvementsQ 
+90,What is Garbage collector GC and when it will come into playQ 
+91,What is the difference between Promises DIrectives and ServicesQ 
+92,What is LASSSASS
+93,How it is advantageous to use over CSSQ Difference between Angular JS Angular 2 Q Do you know Linux commandsShell scriptin
+94,how to transfer data from Windows to Linux or from one computer having Linux to another computer with LinuxQ 
+95,What is unit testingQ Which version control were you usi
+96,What is the limit of lambda expression
+97,Whats MRO
+98,How does it workPython scope question  x1 y2 z3def changexxglobal y x  4y  6xx  5z  7
+99,whats the resultImplement classmethodwithout using classmethod decoratorregular expression  remove the duplicated word in the wordinput  Hello Helloworld world worldyes eyes yes eyesoutput  gt Helloworldyes eyesgt solution  regular expression lookahead
+100,What kind of performance issues did you ha
+101,How did you solve the performanceproblemThe result of eachcode  Testing the capability of reading python code I dont remember exactl
+102,difference between Multi processes Multi Threadings
+103,what is GILGlobal interpreter lock
+104,how me lambda where did you use thatDecorator
+105,How did you solve the performance problemImplement Inheritance Deep problemSuperMulti Inheritan
+106,Based on the code snippet below which of the following will be the output when the code is executed in interactive modeElementsetherairfirewaterprintElements0printElements3printElements2Elements2earthprintElements2Which of the following will be the output of the script belowLine 1 A30Line 2 B7Line 3 CABLine 4 DABLine 5 EABLine 6 printCLine 7 printDLine 8 printELine 1 gtgtgtdef wishmessageLine 2 
+107, return lambda name message
+108, Based on the code snippet below which of the following will be the output when executed in interactive modeLine 1 gtgtgt aWelcomeLine 2 gtgtgt bWelcomeLine 3 gtgtgt cGoodByeLine 4 gtgtgt dGoodByeLine 5 gtgtgt a is bLine 6 gtgtgt c is dSQL QuestionTable1 has just one column City with the following list of valuesCHICAGOBOISECHATTANOOGAHONOLULUROMEMADRIDOSLOQuery for the city in the table with the shortest name and the city with the longest namefind employee whose salary is second highest
+109,How does it work in javascript do they pass by value or by reference
+110,What is the difference betweenstaticmethodandclassmethod
+111,Whats the difference between truncate and delete
+112,Whats the difference between iterator and generatorDid you have anyperformanceissues and
+113,what was your creative solution
+114,What did you use Unittest for
+115,what is Unittest
+116,How dod you use itTell me aboutdjango architectureImplement the CRUD operator using RestAPIHave you ever usedRestframeworkusing async in python
+117,What isfunctool partia
+118,how does it workGive me examples of decorators in djang
+119,S
+120,how me 
+121,How you write Restful API with the serializerIn the given arrayfind all probable sub arrays that have the given sumno duplicate arrayexamplearr  12342134512sum  3output  111 
+122,How do you randomize an list
+123,What is self in python
+124,What is zip
+125,What i
+126,pyc
+127,How do we change tuple
+128,What is the differences between list and tuple
+129,What is lambda expressi
+130,How would you code for this Open the text file and count the capital letters in the text
+131,How do you reassign tuple and list
+132,What is multithreading
+133,How do you import that
+134,What are the differences range and xrange
+135,What is different between python2 and python3Tell me about Python inheritance
+136,What is different between deep copy and shallow cop
+137,How does python memory management work
+138,How do you useexception in python
+139,How do you access the attributes of parent class from Child clas
+140, When the data is even numberreturn 1 or odd number return 0a   1 if x20 else 0 for x in range120Implement the same function using lambda exprssion
+141,Whats Lambda expressio
+142,What are the advantages and disadvantagesargs and kwarg
+143,How do you use def aargkwargs
+144,What if my_functionmynamehello1234argaddressa10b20
+145,What happenspython 2 and 3 differenceWhich python version are you used to
+146,What did you choose to use Python
+147,Whats the result of thisa  123a
+148,how do you convert datatype to str
+149,What is immutable give me the list of the immutables and mutables
+150,Whats tuple Give me theusage of tuple
+151,What variable type do they have in pytho
+152,How would you slice Tuple
+153,What are theMultipleprocess and multithreading Tell me thedifferences
+154,How do you use themtell me the example about the Python Compile errors trap questi
+155, There is no compile errors in python since its an interpreter language
+156,args in python
+157,What is series in pythonTell me the differences between dir and somethin
+158,DjangoQuestions
+159,What are models
+160,What are views
+161,What are urls
+162,What are templatesPythonQuestionsCan a dictionary have repeated keysCan a dictionary have repeated valuesCan you nest a dictionary within anothe
+163,How do you convert CSV files to python objectsDifference between threading and processHave you use pandasHave you use Beautiful SoupGeneralQuestions
+164,What did you do on your last projec
+165,How did Django play a role on the projec
+166,What was the challenge you had changing SQL server to NoSQL
+167,What performance issue did you have in the last projec
+168,Can you tell me about multiprocess in python
+169,Whats difference from multithreading
+170,Whats global interpreter lockGIL
+171,Whats lambda expression in Pytho
+172, 
+173,What is memory management in python
+174, 
+175,What is REST stand for
+176,what is REST
+177,what is lambda
+178, SQL use join to merge two tables
+179, some performance questions
+180,python give a unsorted integer array  positive negative find three numbers that have a maximalproduct in the array return the max product
+181,SQL design a database that use for a website which can let the user to post pictures store the picture url in the database
+182, Different between python3 and python26
+183,Q 
+184,how to select an element of id tag from an html code using cssQ 
+185,how to select a p element of id tag from an html code using cssQ 
+186,What is difference between call apply and bi
+187,In the Given situation I have the code that is dependant on your code on the same branch tell me the right steps to collaborate the code together and git command linepull origin dont use UI for github
+188,Given elementarr  310145792310 a  sortedlistarrreversedTruePerform the same sorting operation without using python module
+189, Pseudo code
+190, 
+191,How did you use it
+192,How do you convert databse file to python object using Pandas
+193,How did you with change a real world questio
+194, When you are finished please push your code to a Github or Bitbucket etc
+195,1 Create a HTTP API server application in Python that has a single endpoint status that should return a JSON response with the followingcontent a 
+196,how long the application has been running since the start of this process b the number of times this endpoint has been called since the start of this process c the datetime at which this endpoint was first called ever independent of this particular process d the number of times any of the servers endpoints have been called ever also independent of this particular processTo clarify for steps c and d if the application terminates and is restarted at a later time the existing timesvalues should persis
+197,2 Create a HTTP server in NodeJS with an index route  that a Calls status on the API server b Renders an HTML result page containing the API results displayed in a way of your choosing3 Design and write simple UI presenting the data fetched from your API endpoint
+198,Why did you use restap
+199,What enterprise did you use
+200,What are the stacks in your project
+201,How did you publish your projectsTell me the achitecture of your API server
+202,How do you decorate class based functions
+203,What did you use the decorators for
+204,What decorators did you use in Django
+205,What was your CICD pipeline
+206,Whats Lambda expression an
+207,how did you use in DjangoYou used DynamoD
+208,Pythonaddition1  2  3 a  b  ab 
+209,how it worksDifferent between python3 and python2 when you create a clas
+210,What is overload in pytho
+211,Delete the duplicate values in the listInput  1112333456777789910Ouput  12345678910 Can you develop it 
+212,What if you have a memory limit
+213,how would you develop the codeTable has rank people like thisRank Student_name5   George1Kyungbae2Xyz3   ABCWrite a query to get a second rankIn the given situation you get many data files through google sheet or google doc
+214,some basic python questionsbasic of unix commondcodingtest
+215, explain the time complexity of your code7
+216, If you have 40000 lines of code in MongoDB and you use only a few fields often 
+217,What is the best approach to do so1
+218, Use a serialzer in a view to write an sql query using SQLAlchemy to fetch details of a person and send it to the template
+219, 
+220,How do you extend object in python and typescript1
+221, Give example of a lambda function in AWS using Python9
+222, Two SQL questions to write queriesDjango4
+223, For a post function for REST API 
+224,how do you find the user to check for authenticationAn
+225,Explain the post function in REST API
+226, 
+227,how many types of copies are there in python and explain deep copy and shallow copy
+228, explain Inheritance in python4
+229, 
+230,How to you create restapi
+231, 
+232,what is status code 401
+233, 
+234,what are the drivers you will install for mysql and oracle1
+235, write code for String reverse2
+236, Does python supports threading2
+237, Is python call by value or call by reference4
+238, Explain about djangorestapi9
+239, 
+240,how did you secure django connect the database building the API
+241, They have s
+242,hown me burgerapp requirement onn the system and asked me to write the restapi code on the board for the burger application by using the CRUD operations with detailed explanatio
+243, He asked me to write the unit test code for the given function5
+244, 
+245,how to you do batchprocessing in python
+246,js amp Python django  djangorestapi in your project 7
+247, if python interpreted programming language then 
+248,what is
+249,py in python and where it is located
+250,Django REST framework API
